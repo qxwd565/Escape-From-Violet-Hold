@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Frantic Forger",
+  "card": {
+    "id": "JAIL_986",
+    "dbfId": 126937,
+    "name": "다급한 위조범",
+    "text": "<b>전투의 함성:</b> 비용을 낼 수 있는 무작위 주문을 얻습니다. 그 주문이 <b>일시적</b>입니다.",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 2,
+    "attack": 2,
+    "health": 2,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-181_M.tif:e66beeabaf154992922d81e14288aa6d",
+    "flavor": "\"거짓말하면 안 돼...\" \"거짓말하면 안 돼...\" \"거짓말하면 안 돼...\"",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 3630,
+        "name": "게임 태그 3630",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>전투의 함성:</b> 비용을 낼 수 있는 무작위 주문을 얻습니다. 그 주문이 <b>일시적</b>입니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Chainbreaker Hogger",
+  "card": {
+    "id": "JAIL_384",
+    "dbfId": 126002,
+    "name": "사슬을 끊은 들창코",
+    "text": "<b>도발</b>, <b>개전:</b> 내 덱에 있는 다른 모든 <b>전설</b> 카드를 복제합니다.",
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "LEGENDARY",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 8,
+    "attack": 10,
+    "health": 10,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-090_M.tif:d1d48c7f568c498d849550d5e9c6fdaa",
+    "flavor": "031306번 수감자 접수. 구속 사유: 초보를 너무 많이 먹음.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 10
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 10
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 968,
+        "name": "게임 시작 효과",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 2936,
+        "name": "게임 태그 2936",
+        "value": 1
+      },
+      {
+        "id": 4818,
+        "name": "게임 태그 4818",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>도발</b>, <b>개전:</b> 내 덱에 있는 다른 모든 <b>전설</b> 카드를 복제합니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

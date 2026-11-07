@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Lotus Troublemaker",
+  "card": {
+    "id": "JAIL_470",
+    "dbfId": 129983,
+    "name": "연꽃 골칫덩이",
+    "text": "<b>전투의 함성:</b> 무작위 적에게 피해를 1 줍니다. 1번 쏩니다! \n<i>(손이나 덱에 있는 동안 마나 2개로 카드를 내면 더 쏠 수 있습니다!)</i>",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 3,
+    "attack": 2,
+    "health": 2,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-155_M.tif:bc25a40e9bcb49c7ba66c85b0b2c15be",
+    "flavor": "2-2-2 가도 될까요?",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>전투의 함성:</b> 무작위 적에게 피해를 1 줍니다. @번 쏩니다! \n<i>(손이나 덱에 있는 동안 마나 2개로 카드를 내면 더 쏠 수 있습니다!)</i>",
+    "nativeTextBuilder": 7
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

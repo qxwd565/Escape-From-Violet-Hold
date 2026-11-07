@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "SI:7 Supplier",
+  "card": {
+    "id": "CAP_003",
+    "dbfId": 127054,
+    "name": "SI:7 보급원",
+    "text": "<b>은신</b>, 이 하수인이 공격한 후에, 카드를 뽑습니다.",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "COMMON",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 2,
+    "attack": 1,
+    "health": 3,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-301_M.tif:448c15f14bc04324b43a68f5e8c578cc",
+    "flavor": "\"이 상자가 어디서 났더라? 아, 어... 스미스 할머니한테 받았었지...\"",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 191,
+        "name": "은신",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1678,
+        "name": "게임 태그 1678",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      },
+      {
+        "id": 4975,
+        "name": "게임 태그 4975",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>은신</b>, 이 하수인이 공격한 후에,& 카드를 뽑습니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "P1CK-P0K3T",
+  "card": {
+    "id": "JAIL_456",
+    "dbfId": 127322,
+    "name": "소ㅁH大丨기",
+    "text": "<b>전투의 함성:</b> 내 덱에 카드가 25장 이상 있으면, 카드를 뽑습니다.",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "COMMON",
+    "race": "기계",
+    "races": [
+      "MECHANICAL"
+    ],
+    "spellSchool": "",
+    "cost": 2,
+    "attack": 2,
+    "health": 3,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-092_M.tif:6c881a19a4ff4be78ac2b5f26690539e",
+    "flavor": "소ㅁH大丨기가 도ㅁH大丨기보다는 낫죠.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>전투의 함성:</b> 내 덱에 카드가 25장 이상 있으면, 카드를 뽑습니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Godfrey the Betrayer",
+  "card": {
+    "id": "JAIL_509",
+    "dbfId": 126125,
+    "name": "배신자 고드프리",
+    "text": "<b>개전:</b> 초과하여 뽑은 카드들이 공간이 생기면 내 손으로 돌아옵니다. 그 카드들의 비용이 (1) 감소합니다.",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "LEGENDARY",
+    "race": "언데드",
+    "races": [
+      "UNDEAD"
+    ],
+    "spellSchool": "",
+    "cost": 4,
+    "attack": 5,
+    "health": 4,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-081_M.tif:35f4e97397694368812417f9c2b287bc",
+    "flavor": "쫓기다가 그림자송곳니 성채에서 궁지에 몰린 고드프리는 조용히 움직이는 수밖에 없었습니다. 하지만 고드프리의 시간이 끝나기 전, 괴물 크롤리는 반드시 죗값을 치를 것입니다.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 968,
+        "name": "게임 시작 효과",
+        "value": 1
+      },
+      {
+        "id": 2105,
+        "name": "게임 태그 2105",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 2936,
+        "name": "게임 태그 2936",
+        "value": 1
+      },
+      {
+        "id": 4818,
+        "name": "게임 태그 4818",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>개전:</b> 초과하여 뽑은 카드들이 공간이 생기면 내 손으로 돌아옵니다. 그 카드들의 비용이 (1) 감소합니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

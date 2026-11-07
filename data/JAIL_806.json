@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Hexmarshal",
+  "card": {
+    "id": "JAIL_806",
+    "dbfId": 126415,
+    "name": "사술사령관",
+    "text": "<b>전투의 함성:</b> 비용이 (5) 이상인 무작위 주문을 얻습니다. 게임이 시작됐을 때 내 덱에 주문이 없었으면, 그 주문의 비용이 (5) 감소합니다.",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 6,
+    "attack": 6,
+    "health": 6,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-063_M.tif:b420068465e343f3be5929041c413979",
+    "flavor": "방금 죄수들을 감방에 넣었는데, <i>또</i> 탈옥하다니!",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>전투의 함성:</b> 비용이 (5) 이상인 무작위 주문을 얻습니다. 게임이 시작됐을 때 내 덱에 주문이 없었으면, 그 주문의 비용이 (5) 감소합니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

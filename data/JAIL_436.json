@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Widow's Bite",
+  "card": {
+    "id": "JAIL_436",
+    "dbfId": 126180,
+    "name": "과부거미의 간식거리",
+    "text": "이번 턴에 내 영웅이\n공격력을 +1 얻습니다.\n방어도를 1 얻습니다.\n\"과부거미의 잔칫상\"을\n내 손으로 가져옵니다.",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "COMMON",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 2,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-142_S.tif:977e89a5fb9fc1b41a16ceb3ff65798c",
+    "flavor": "거미 빵 판매 중. 수익금은 전액 진짜 거미들에게 전달됩니다.",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "[x]이번 턴에 내 영웅이\n공격력을 +1 얻습니다.\n방어도를 1 얻습니다.\n\"과부거미의 잔칫상\"을\n내 손으로 가져옵니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [
+    126868,
+    126869
+  ],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

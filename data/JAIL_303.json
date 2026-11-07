@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Ancient Augur",
+  "card": {
+    "id": "JAIL_303",
+    "dbfId": 125878,
+    "name": "고대 점술가",
+    "text": "<b>전투의 함성:</b> 상대편의 손에 있는 카드 3장을 보고 비밀리에 한 장을 선택합니다. <b>죽음의 메아리:</b> 그 카드를 버립니다.",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "EPIC",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 4,
+    "attack": 2,
+    "health": 6,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-172_M.tif:04c7fca51d90438191e4461807f9d4ea",
+    "flavor": "\"절 꺼내 주면 다음 하스스톤 확장팩이 뭔지 말해 줄게요.\"",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>전투의 함성:</b> 상대편의 손에 있는 카드 3장을 보고 비밀리에 한 장을 선택합니다. <b>죽음의 메아리:</b> 그 카드를 버립니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

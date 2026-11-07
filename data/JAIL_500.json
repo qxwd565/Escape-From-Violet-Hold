@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Slice and Dice",
+  "card": {
+    "id": "JAIL_500",
+    "dbfId": 125983,
+    "name": "난도질",
+    "text": "이번 턴에 나온 다른 모든 카드를 <i>(가능하다면 적을 대상으로 선택하여)</i> 다시 냅니다. 내 턴을 끝냅니다.",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "LEGENDARY",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 5,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-059_S.tif:b6d475fc512d477e97a587d24954d025",
+    "flavor": "재료 준비에, 칼질에, 부채질에, 승리까지! 난도질로는 무엇이든 가능합니다!",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 676,
+        "name": "무작위 선택 제외",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "이번 턴에 나온 다른 모든 카드를 <i>(가능하다면 적을 대상으로 선택하여)</i> 다시 냅니다. 내 턴을 끝냅니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

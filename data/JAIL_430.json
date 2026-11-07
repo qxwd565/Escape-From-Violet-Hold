@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Azalina Soulsever",
+  "card": {
+    "id": "JAIL_430",
+    "dbfId": 126055,
+    "name": "영혼절단 아잘리나",
+    "text": "내 영웅의 시작 생명력이 40이 됩니다. 덱이 카드 20장과 적의 카드를 복사한 카드 20장으로 구성됩니다. <b>전투의 함성:</b> 내 손이 가득 찰 때까지 카드를 뽑습니다.",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "LEGENDARY",
+    "race": "언데드",
+    "races": [
+      "UNDEAD"
+    ],
+    "spellSchool": "",
+    "cost": 7,
+    "attack": 7,
+    "health": 7,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-053_M.tif:a127b822b81d44daa46b2113fd9086c4",
+    "flavor": "원혼이 마녀숲을 공포로 지배하던 시대는 끝이 났습니다. 하지만 아잘리나의 창살을 빠져나가는 속삭임은 늘어만 갑니다. 그녀의 주문에 걸린 경비병은 몇 명이나 될까요? 한 가지만은 확실합니다. 바네사가 자의로 그녀와 거래하려 한다면, 거기에는 대가가 따른다는 것이죠...",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 7
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 968,
+        "name": "게임 시작 효과",
+        "value": 1
+      },
+      {
+        "id": 997,
+        "name": "덱 구성 카드 수 변경",
+        "value": 20
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 2936,
+        "name": "게임 태그 2936",
+        "value": 1
+      },
+      {
+        "id": 4818,
+        "name": "게임 태그 4818",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "내 영웅의 시작 생명력이 40이 됩니다. 덱이 카드 20장과 적의 카드를 복사한 카드 20장으로 구성됩니다. <b>전투의 함성:</b> 내 손이 가득 찰 때까지 카드를 뽑습니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

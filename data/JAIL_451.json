@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Blood Clone",
+  "card": {
+    "id": "JAIL_451",
+    "dbfId": 126503,
+    "name": "피 복제",
+    "text": "비용이 5인 하수인을 <b>발견</b>합니다. <b>시체</b>를 5개 소모해 그 하수인을 복사하여 소환합니다.",
+    "type": "SPELL",
+    "cardClass": "DEATHKNIGHT",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "SHADOW",
+    "cost": 3,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-124_S.tif:cac5e3dc86df4dd79f225908d991e16c",
+    "flavor": "거울 속의 복제물부터 시작하겠습니다.",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      },
+      {
+        "id": 2196,
+        "name": "혈기 룬",
+        "value": 2
+      },
+      {
+        "id": 2559,
+        "name": "시체",
+        "value": 1
+      },
+      {
+        "id": 4058,
+        "name": "시체 소모",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "비용이 5인 하수인을 <b>발견</b>합니다. <b>시체</b>를 5개 소모해 그 하수인을 복사하여 소환합니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

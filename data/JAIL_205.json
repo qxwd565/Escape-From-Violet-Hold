@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Rat Burglar",
+  "card": {
+    "id": "JAIL_205",
+    "dbfId": 131316,
+    "name": "쥐 강도",
+    "text": "내 턴이 끝날 때, 내 턴 동안 상대편의 손에 들어간 모든 카드를 가져옵니다.",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "EPIC",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 4,
+    "attack": 2,
+    "health": 6,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-102_M.tif:06b7d09cb37b4fe4b242e78f03719a75",
+    "flavor": "사실 형을 줄여 보려고 가젯잔에서 있었던 일을 싹 털어놓았습니다.",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "내 턴이 끝날 때, 내 턴 동안 상대편의 손에 들어간 모든 카드를 가져옵니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

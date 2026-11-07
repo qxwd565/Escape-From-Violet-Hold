@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Low Security Wing",
+  "card": {
+    "id": "JAIL_987",
+    "dbfId": 126938,
+    "name": "보안 미비 구역",
+    "text": "무작위 주술사 하수인을 얻습니다. 그 하수인은 내가 다른 카드를 낼 때까지 손에서 잠겨 있습니다.",
+    "type": "LOCATION",
+    "cardClass": "SHAMAN",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "EPIC",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 1,
+    "attack": 0,
+    "health": 3,
+    "armor": 0,
+    "durability": 3,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-171_L.tif:494d4266e1024e008bef47a7eae2f6bb",
+    "flavor": "이 수감자들이 중요하지 않은 건 아닙니다. 경비병들이 좀 바쁠 뿐입니다.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 39
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "무작위 주술사 하수인을 얻습니다. 그 하수인은 내가 다른 카드를 낼 때까지 손에서 잠겨 있습니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

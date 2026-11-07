@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Frame Job",
+  "card": {
+    "id": "CAP_403",
+    "dbfId": 127057,
+    "name": "계략",
+    "text": "무작위 적 하수인을 둘 처치합니다. 상대편의 덱에서 하수인을 <b>발견</b>하여 맨 위에 놓습니다.",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 5,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-114_S.tif:27b4596900f64836b1e5a9c7b1e7844c",
+    "flavor": "감식 결과 피해자는 <b>과부하:</b> (1)이 있는 마나 2짜리 2/2 무기에 당했습니다.",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "무작위 적 하수인을 둘 처치합니다. 상대편의 덱에서 하수인을 <b>발견</b>하여 맨 위에 놓습니다.",
+    "nativeTextBuilder": 28
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

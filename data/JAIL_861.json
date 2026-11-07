@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Noxious Bribe",
+  "card": {
+    "id": "JAIL_861",
+    "dbfId": 126054,
+    "name": "유독한 뇌물",
+    "text": "<b>선택</b> 카드를 <b>발견</b>합니다. 그 카드는 두 능력이 모두 발동합니다. 상대편에게\n그 카드를 강화 효과가 없는\n일반 카드로 복사하여 줍니다.",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 2,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-010_S.tif:acb679f97b4e474194d92c46811c1d9c",
+    "flavor": "\"내가 너 주려고 파이 구웠어!\" \"오오, 무슨 맛 파이?\" \"파이프 맛 파이!\"",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 4705,
+        "name": "게임 태그 4705",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>선택</b> 카드를 <b>발견</b>합니다. 그 카드는 두 능력이 모두 발동합니다. 상대편에게\n그 카드를 강화 효과가 없는\n일반 카드로 복사하여 줍니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

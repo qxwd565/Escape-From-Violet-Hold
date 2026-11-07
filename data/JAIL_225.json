@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Nab",
+  "card": {
+    "id": "JAIL_225",
+    "dbfId": 125571,
+    "name": "납치",
+    "text": "하수인에게 피해를 $3 줍니다.\n그 하수인이 죽으면\n비용이 (2)인 카드로 복사하여\n내 덱에 섞어 넣습니다.",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 2,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-153_S.tif:498985505cca7b1418eef5127522420e",
+    "flavor": "\"잠깐, 도적이 메타라고?\" \"늘 그랬는데...\"",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "[x]하수인에게 피해를 $3 줍니다.\n그 하수인이 죽으면\n비용이 (2)인 카드로 복사하여\n내 덱에 섞어 넣습니다.",
+    "nativeTextBuilder": 7
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

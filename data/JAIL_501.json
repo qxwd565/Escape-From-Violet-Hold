@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Picklock",
+  "card": {
+    "id": "JAIL_501",
+    "dbfId": 125985,
+    "name": "자물쇠 따기 전문가",
+    "text": "이 카드에 적힌 모든 숫자가\n내 남은 마나와 같습니다. <b>전투의 함성:</b> 적 하수인에게 피해를 1 줍니다.",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 1,
+    "attack": 1,
+    "health": 1,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-055_M.tif:4629032977c54296b2a48c79cf862cce",
+    "flavor": "절 도함수라 불러 주세요. 늘 곡선상에 있거든요!",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 4958,
+        "name": "게임 태그 4958",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "이 카드에 적힌 모든 숫자가\n내 남은 마나와 같습니다. <b>전투의_함성:</b> 적 하수인에게 피해를 @ 줍니다.",
+    "nativeTextBuilder": 7
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

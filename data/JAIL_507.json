@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Spiteful Chef",
+  "card": {
+    "id": "JAIL_507",
+    "dbfId": 125993,
+    "name": "원한의 주방장",
+    "text": "<b>전투의 함성:</b> 비용이 2인 <b>도발</b> 하수인을 소환합니다. 내 마나가 10 이상이면, 비용이 6인 <b>도발</b> 하수인을 소환합니다.",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "EPIC",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 3,
+    "attack": 3,
+    "health": 2,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-011_M.tif:fcc4f10148424f2bb51eaa2708a90194",
+    "flavor": "소금을 조금만 더 쳐 달라고 했을 뿐인데요!",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>전투의 함성:</b> 비용이 2인 <b>도발</b> 하수인을 소환합니다. 내 마나가 10 이상이면, 비용이 6인 <b>도발</b> 하수인을 소환합니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Grueling Trial",
+  "card": {
+    "dbfId": 132830,
+    "heroPowerDbfId": 0,
+    "techLevel": 0,
+    "battlegroundsNormalDbfId": 0,
+    "battlegroundsPremiumDbfId": 0,
+    "battlegroundsRelatedCard": 0,
+    "battlegroundsBuddyDbfId": 0,
+    "cost": 4,
+    "health": 0,
+    "attack": 0,
+    "armor": 0,
+    "durability": 0,
+    "nativeSetId": 1988,
+    "battlegroundsSkinParentId": 0,
+    "installed": true,
+    "isBattlegroundsDuosExclusive": false,
+    "chooseOne": false,
+    "classes": [],
+    "races": [],
+    "mechanics": null,
+    "battlegroundsAssociatedRaces": null,
+    "id": "CAP_405tb2",
+    "name": "지지부진한 재판",
+    "text": "1턴 후에, 카드를 3장 뽑습니다. 비용이 3인 무작위 하수인을 셋 소환합니다.",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": null,
+    "race": "",
+    "flavor": "",
+    "spellSchool": null,
+    "portrait": "HS38-320_S.tif:64a874e06ffc4dd8bdb072c8f24e636f",
+    "collectible": false,
+    "isBattlegroundsPoolMinion": false,
+    "isBattlegroundsPoolSpell": false,
+    "battlegroundsHero": false,
+    "isBattlegroundsBuddy": false
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape from Violet Hold"
+  },
+  "setOrder": 5,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "accepted local definitions",
+    "generation": "C:\\Program Files (x86)\\Hearthstone|6000.3.11.3145967|Data/Win/dbf.unity3d:45499729:639276875953465737|Data/Win/asset_manifest.unity3d:39016684:639275081248696787|Data/Win/asset_manifest_kokr.unity3d:2878508:639275081863604657|Hearthstone_Data/Managed/Assembly-CSharp.dll:23114752:639275082723615138|Strings/koKR/GLOBAL.txt:159077:639275080960313008|Strings/koKR/GAMEPLAY.txt:44252:639275081882144258|Hearthstone.exe:678096:639275081890055132|.build.info:"
+  },
+  "variantId": "trial:CAP_405tb2:CAP_405t4+CAP_405t6",
+  "preset": {
+    "description": "1턴 후에, 카드를 3장 뽑습니다. 비용이 3인 무작위 하수인을 셋 소환합니다."
+  },
+  "combination": {
+    "kind": "trial",
+    "producer": "CAP_405",
+    "effects": [
+      "CAP_405t4",
+      "CAP_405t6"
+    ],
+    "effectNames": [
+      "밀반입품 상자",
+      "범죄 계약서"
+    ]
+  }
+}

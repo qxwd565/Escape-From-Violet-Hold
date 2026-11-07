@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Jailbird",
+  "card": {
+    "id": "JAIL_453",
+    "dbfId": 126666,
+    "name": "감옥새",
+    "text": "<b>도발</b>. 내 손에 있을 때 <b>준비</b>하면, 이 카드의 비용이 그만큼 감소합니다.",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "RARE",
+    "race": "야수",
+    "races": [
+      "BEAST"
+    ],
+    "spellSchool": "",
+    "cost": 5,
+    "attack": 3,
+    "health": 4,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-101_M.tif:2f97ab3967c54d339471e014994ff921",
+    "flavor": "꽥꽥! 나 앵무새, 털어서 나오면 각오해!",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 4354,
+        "name": "준비",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>도발</b>. 내 손에 있을 때 <b>준비</b>하면, 이 카드의 비용이 그만큼 감소합니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

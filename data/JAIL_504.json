@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Aya, Lotus Kingpin",
+  "card": {
+    "id": "JAIL_504",
+    "dbfId": 125989,
+    "name": "연꽃 두목 아이야",
+    "text": "내가 항상 두 번째로 시작합니다. <b>전투의 함성:</b> 이번 게임에\n내 동전을 대체할 강화된\n위조 동전을 골라, 3개 얻습니다.",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "LEGENDARY",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 6,
+    "attack": 6,
+    "health": 3,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-058_M.tif:bc4300b9ede542fbb03b59f694eed393",
+    "flavor": "비취 연꽃의 우두머리가 가젯잔에서 배운 것이 있다면, 도둑에게 명예는 없다는 것입니다. 그런데도 또 이런 처지가 되어, 카자쿠스보다 나을 것이 없는 배신자들과 손을 잡았습니다.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 2936,
+        "name": "게임 태그 2936",
+        "value": 1
+      },
+      {
+        "id": 4818,
+        "name": "게임 태그 4818",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "내가 항상 두 번째로 시작합니다. <b>전투의 함성:</b> 이번 게임에\n내 동전을 대체할 강화된\n위조 동전을 골라, 3개 얻습니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [
+    127152,
+    127153,
+    127154,
+    127163,
+    129987,
+    129988,
+    129989,
+    131327
+  ],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

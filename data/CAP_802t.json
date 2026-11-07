@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Spooky Ghost",
+  "card": {
+    "id": "CAP_802t",
+    "dbfId": 127063,
+    "name": "으스스한 유령",
+    "text": "<b>환생</b>",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "",
+    "race": "언데드",
+    "races": [
+      "UNDEAD"
+    ],
+    "spellSchool": "",
+    "cost": 2,
+    "attack": 2,
+    "health": 1,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-324_M.tif:5719ca4676604d4589e1c1785d313240",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 1085,
+        "name": "환생",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>환생</b>",
+    "nativeTextBuilder": 28
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Unshackle Soul",
+  "card": {
+    "id": "JAIL_433",
+    "dbfId": 126124,
+    "name": "영혼 속박 풀기",
+    "text": "하수인을 처치합니다. 이 주문이 내 손에 있을 때 내가 상대편의 카드를 복사한 카드를 냈으면, 이 주문의 비용이 (1)이 됩니다.",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "EPIC",
+    "race": "",
+    "races": [],
+    "spellSchool": "SHADOW",
+    "cost": 5,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-047_S.tif:7c92286986b44986a059b75099a48895",
+    "flavor": "전 이 세상의 모든 굴레와 속박을 벗어 던지고 제 행복을 찾아 떠납니다!",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "nativeRawText": "하수인을 처치합니다. 이 주문이 내 손에 있을 때 내가 상대편의 카드를 복사한 카드를 냈으면, 이 주문의 비용이 (1)이 됩니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

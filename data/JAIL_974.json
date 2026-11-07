@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Captured Archmage",
+  "card": {
+    "id": "JAIL_974",
+    "dbfId": 126874,
+    "name": "사로잡힌 대마법사",
+    "text": "<b>죽음의 메아리:</b> 이번 게임에\n다른 사로잡힌 대마법사가 4명 죽었으면, 무작위 적에게 '화염구'를 시전합니다.",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "EPIC",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 2,
+    "attack": 3,
+    "health": 2,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-103_M.tif:c6a8c18ed198439f82f2b470690628e3",
+    "flavor": "1단계: 죽는다. 2단계: 사라진다. 3단계: 사망한다. 4단계: 숨을 거둔다. 5-10단계: 화염구!",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 2165,
+        "name": "게임 태그 2165",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>죽음의 메아리:</b> 이번 게임에\n다른 사로잡힌 대마법사가 4명 죽었으면, 무작위 적에게 '화염구'를 시전합니다.@ <i>(@/4)</i>",
+    "nativeTextBuilder": 7
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

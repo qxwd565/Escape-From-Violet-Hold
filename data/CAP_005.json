@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Mathias Shaw",
+  "card": {
+    "id": "CAP_005",
+    "dbfId": 127056,
+    "name": "마티아스 쇼",
+    "text": "<b><b>은신</b>,</b> <b><b>은신</b></b>한 아군 하수인이 공격할 때마다, 내 손에 있는 무작위 카드의 비용이 (3) 감소합니다.",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "LEGENDARY",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 4,
+    "attack": 4,
+    "health": 4,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-111_M.tif:3b1b9673f6c24b31ab7581f788324d81",
+    "flavor": "어느 날 밤, 마티아스가 밴클리프를 찾는 것을 거의 포기했을 무렵, 문을 세게 두드리는 소리가 들려왔습니다. 이 땅의 존재 같지 않게 보랏빛으로 반짝이는 큰까마귀가 SI:7 지도자를 올려다보며 말했습니다. \"달빛시내다. 그녀는 네가 오는 것을 모를 거야.\"",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 191,
+        "name": "은신",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b><b>은신</b>,</b> <b><b>은신</b></b>한 아군 하수인이 공격할 때마다,& 내 손에 있는 무작위 카드의 비용이 (3) 감소합니다.",
+    "nativeTextBuilder": 7
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

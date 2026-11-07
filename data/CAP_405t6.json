@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Criminal Contract",
+  "card": {
+    "id": "CAP_405t6",
+    "dbfId": 132850,
+    "name": "범죄 계약서",
+    "text": "비용이 3인 무작위 하수인을 셋 소환합니다.",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 0,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-310_S.tif:0b66509490a94ceaa6c0699faf3b4ace",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "비용이 3인 무작위 하수인을 셋 소환합니다.",
+    "nativeTextBuilder": 26
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

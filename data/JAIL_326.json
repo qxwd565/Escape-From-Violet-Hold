@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Judgment",
+  "card": {
+    "id": "JAIL_326",
+    "dbfId": 126616,
+    "name": "심판",
+    "text": "<b>준비</b>, 아군 하수인을 선택합니다. 모든 하수인의 능력치를 그 하수인과 동일하게 바꿉니다.",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "EPIC",
+    "race": "",
+    "races": [],
+    "spellSchool": "HOLY",
+    "cost": 6,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-043_S.tif:8c346a93f8e84da2a8c6be2fba616796",
+    "flavor": "어우, 너 카드 뒷면이 너무 유행에 뒤처졌다, 얘.",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 5
+      },
+      {
+        "id": 1743,
+        "name": "덱 행동 비용",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 4354,
+        "name": "준비",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>준비</b>, 아군 하수인을 선택합니다. 모든 하수인의 능력치를 그 하수인과 동일하게 바꿉니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

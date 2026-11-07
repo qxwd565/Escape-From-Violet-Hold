@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Zee's Might",
+  "card": {
+    "id": "JAIL_800hp2",
+    "dbfId": 127476,
+    "name": "지의 힘",
+    "text": "<b><b>지속 능력</b></b>, 내가 내는\n다섯 번째 하수인마다 그\n하수인의 <b>전투의 함성</b>이\n두 번 발동합니다.\n",
+    "type": "HERO_POWER",
+    "cardClass": "SHAMAN",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 0,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-066_HP.tif:3f6f1330af944e949dbf7d3c91473253",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 10
+      },
+      {
+        "id": 376,
+        "name": "특수 키워드 효과",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 126416
+      },
+      {
+        "id": 2459,
+        "name": "대상 조건 태그 ID",
+        "value": 2
+      },
+      {
+        "id": 2460,
+        "name": "대상 조건 수치",
+        "value": 5
+      },
+      {
+        "id": 3046,
+        "name": "전장 주기 효과",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "[x]<b><b>지속 능력</b></b>, 내가 내는\n다섯 번째 하수인마다 그\n하수인의 <b>전투의 함성</b>이\n두 번 발동합니다.\n@ <i>({0}번 남음!)</i>@ <i>(준비 완료!)</i>",
+    "nativeTextBuilder": 11
+  },
+  "root": false,
+  "relatedIds": [
+    126416
+  ],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

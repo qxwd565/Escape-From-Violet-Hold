@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Stardust Scythe",
+  "card": {
+    "id": "JAIL_730",
+    "dbfId": 126660,
+    "name": "별가루 낫",
+    "text": "내 영웅이 공격한 후, 공허의 영혼을 얻습니다.",
+    "type": "WEAPON",
+    "cardClass": "DEMONHUNTER",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "COMMON",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 4,
+    "attack": 3,
+    "health": 0,
+    "armor": 0,
+    "durability": 3,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-132_W.tif:a3a8e0d502e54608928da87bdb50332a",
+    "flavor": "모든 것이 다 가루 아닌가요, 별가루?",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 7
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1078,
+        "name": "마우스를 올리면 카드 표시",
+        "value": 126662
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      },
+      {
+        "id": 4546,
+        "name": "게임 태그 4546",
+        "value": 1
+      },
+      {
+        "id": 4931,
+        "name": "게임 태그 4931",
+        "value": 1
+      },
+      {
+        "id": 4932,
+        "name": "게임 태그 4932",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "내 영웅이 공격한 후,& 공허의 영혼을 얻습니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [
+    126662
+  ],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

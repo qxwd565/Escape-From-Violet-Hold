@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Godfather Kazakus",
+  "card": {
+    "id": "CAP_405",
+    "dbfId": 127067,
+    "name": "대부 카자쿠스",
+    "text": "<b>전투의 함성:</b> 원하는 모의재판을 직접 꾸밉니다! 그 후 재판의 길이를 선택합니다.",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "classes": [],
+    "nativeSetId": 1988,
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "rarity": "LEGENDARY",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 3,
+    "attack": 3,
+    "health": 3,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS38-115_M.tif:e14e26253e13441880ddb4fcfa373d2f",
+    "flavor": "가젯잔의 조직들이 결코 손을 잡지 않는 데는 그럴 만한 이유가 있었습니다. 대작전을 계획한 것은 카자쿠스였지만... 그 덕을 보는 건 항상 블랙포일 것이었기 때문이죠.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>전투의 함성:</b> 원하는 모의재판을 직접 꾸밉니다! 그 후 재판의 길이를 선택합니다.",
+    "nativeTextBuilder": 28
+  },
+  "root": true,
+  "relatedIds": [
+    132875,
+    132874,
+    132873,
+    132837,
+    132849,
+    132843,
+    132838,
+    132844,
+    132850,
+    132851,
+    132856,
+    132848,
+    126893,
+    132829,
+    132830,
+    132831
+  ],
+  "expansion": {
+    "id": 1988,
+    "slug": "escape-from-violet-hold",
+    "name": "보랏빛 요새 탈출 작전",
+    "type": "",
+    "englishName": "Escape From Violet Hold"
+  },
+  "setOrder": 1,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}
