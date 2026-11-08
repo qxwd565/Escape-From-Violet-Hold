@@ -80,11 +80,7 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "STEALTH"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CAP_001",
@@ -149,10 +145,7 @@
       ],
       "mechanics": [
         "STEALTH"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CAP_002",
@@ -222,11 +215,7 @@
       "mechanics": [
         "STEALTH",
         "DISCOVER"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CAP_003",
@@ -316,11 +305,7 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "STEALTH"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CAP_004",
@@ -409,11 +394,7 @@
       "relatedDbfIds": [
         130030,
         130031
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CAP_004a",
@@ -421,7 +402,7 @@
       "name": "발각됨!",
       "type": "SPELL",
       "cardClass": "ROGUE",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 1,
       "text": "아군 전장에 나왔습니다.",
@@ -453,12 +434,7 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "CAP_004b",
@@ -466,7 +442,7 @@
       "name": "변장함!",
       "type": "SPELL",
       "cardClass": "ROGUE",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 1,
       "text": "적 전장에 나왔습니다.",
@@ -498,12 +474,7 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "CAP_005",
@@ -593,11 +564,7 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "STEALTH"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CAP_006",
@@ -661,11 +628,7 @@
       ],
       "mechanics": [
         "STEALTH"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CAP_101",
@@ -716,11 +679,7 @@
           "name": "미니 세트",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CAP_102",
@@ -779,11 +738,7 @@
       ],
       "relatedDbfIds": [
         127012
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CAP_103",
@@ -860,11 +815,7 @@
       ],
       "relatedDbfIds": [
         127012
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CAP_104",
@@ -886,7 +837,7 @@
       "races": [
         "PIRATE"
       ],
-      "race": "해적",
+      "race": "PIRATE",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -939,9 +890,7 @@
           "name": "미니 세트",
           "value": 1
         }
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CAP_105",
@@ -1013,11 +962,7 @@
       ],
       "relatedDbfIds": [
         127012
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CAP_106",
@@ -1039,7 +984,7 @@
       "races": [
         "PIRATE"
       ],
-      "race": "해적",
+      "race": "PIRATE",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -1133,9 +1078,7 @@
       ],
       "relatedDbfIds": [
         127012
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CAP_107",
@@ -1158,7 +1101,7 @@
         "PIRATE",
         "DRAENEI"
       ],
-      "race": "해적, 드레나이",
+      "race": "PIRATE",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -1227,9 +1170,7 @@
       ],
       "relatedDbfIds": [
         127012
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CAP_107t",
@@ -1237,7 +1178,7 @@
       "name": "포대장",
       "type": "MINION",
       "cardClass": "WARRIOR",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 1,
       "text": "내 턴이 끝날 때, 무작위 적에게 피해를 1 줍니다.",
@@ -1250,7 +1191,7 @@
       "races": [
         "PIRATE"
       ],
-      "race": "해적",
+      "race": "PIRATE",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -1296,10 +1237,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "CAP_400",
@@ -1381,11 +1319,7 @@
       ],
       "relatedDbfIds": [
         127024
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CAP_400t2t",
@@ -1393,7 +1327,7 @@
       "name": "임프 정보통",
       "type": "MINION",
       "cardClass": "WARLOCK",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 3,
       "text": "<b>생명력 흡수</b>\n<b>뽑을 때 소환</b> <i>(상대편에)</i>",
@@ -1406,7 +1340,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -1457,10 +1391,7 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "CAP_401",
@@ -1537,11 +1468,7 @@
       ],
       "relatedDbfIds": [
         127024
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CAP_402",
@@ -1600,11 +1527,7 @@
       ],
       "relatedDbfIds": [
         127024
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CAP_403",
@@ -1668,11 +1591,7 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CAP_404",
@@ -1731,11 +1650,7 @@
       ],
       "relatedDbfIds": [
         127024
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CAP_405",
@@ -1917,11 +1832,7 @@
             "resultDbfId": 132831
           }
         ]
-      },
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      }
     },
     {
       "id": "CAP_405t1",
@@ -1929,7 +1840,7 @@
       "name": "파괴죄로 구금",
       "type": "SPELL",
       "cardClass": "WARLOCK",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 0,
       "text": "모든 하수인이 다른 하수인을 공격합니다.",
@@ -1966,12 +1877,7 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "CAP_405t2",
@@ -1979,7 +1885,7 @@
       "name": "모의죄로 유죄 판결",
       "type": "SPELL",
       "cardClass": "WARLOCK",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 0,
       "text": "무작위 적 하수인을\n가져옵니다.",
@@ -2016,12 +1922,7 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "CAP_405t3",
@@ -2029,7 +1930,7 @@
       "name": "밀반입죄로 판결",
       "type": "SPELL",
       "cardClass": "WARLOCK",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 0,
       "text": "상대편의 손에서 카드를 2장 가져옵니다.",
@@ -2066,12 +1967,7 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "CAP_405t4",
@@ -2079,7 +1975,7 @@
       "name": "밀반입품 상자",
       "type": "SPELL",
       "cardClass": "WARLOCK",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 0,
       "text": "카드를 3장 뽑습니다.",
@@ -2116,12 +2012,7 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "CAP_405t5",
@@ -2129,7 +2020,7 @@
       "name": "가짜 비수",
       "type": "SPELL",
       "cardClass": "WARLOCK",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 0,
       "text": "내 손과 전장에 있는 하수인들에게 +3/+3을 부여합니다.",
@@ -2166,12 +2057,7 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "CAP_405t6",
@@ -2179,7 +2065,7 @@
       "name": "범죄 계약서",
       "type": "SPELL",
       "cardClass": "WARLOCK",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 0,
       "text": "비용이 3인 무작위 하수인을 셋 소환합니다.",
@@ -2211,12 +2097,7 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "CAP_405t7",
@@ -2224,7 +2105,7 @@
       "name": "위증의 물약",
       "type": "SPELL",
       "cardClass": "WARLOCK",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 0,
       "text": "내 손에 있는 하수인들의 비용이 (2) 감소합니다.",
@@ -2261,12 +2142,7 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "CAP_405t8",
@@ -2274,7 +2150,7 @@
       "name": "피암시성의 수액",
       "type": "SPELL",
       "cardClass": "WARLOCK",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 0,
       "text": "내 영웅이 생명력을\n#12 회복합니다.",
@@ -2311,12 +2187,7 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "CAP_405t9",
@@ -2324,7 +2195,7 @@
       "name": "폭정의 약제",
       "type": "SPELL",
       "cardClass": "WARLOCK",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 0,
       "text": "공허군주를 소환합니다.",
@@ -2361,12 +2232,7 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "CAP_405tb1b",
@@ -2374,7 +2240,7 @@
       "name": "급한 재판",
       "type": "SPELL",
       "cardClass": "WARLOCK",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 7,
       "text": "재판이 바로 끝납니다!",
@@ -2406,12 +2272,7 @@
           "name": "카드 유형",
           "value": 5
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "CAP_405tb1",
@@ -3058,7 +2919,7 @@
       "name": "지지부진한 재판",
       "type": "SPELL",
       "cardClass": "WARLOCK",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 4,
       "text": "내 다음 턴이 시작될 때\n재판이 끝납니다.",
@@ -3090,12 +2951,7 @@
           "name": "카드 유형",
           "value": 5
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "CAP_405tb2",
@@ -3742,7 +3598,7 @@
       "name": "끝나지 않는 재판",
       "type": "SPELL",
       "cardClass": "WARLOCK",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 0,
       "text": "4턴 후에 재판이 끝납니다.",
@@ -3774,12 +3630,7 @@
           "name": "목표",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "CAP_405tb3",
@@ -4501,11 +4352,7 @@
       ],
       "relatedDbfIds": [
         127024
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CAP_407",
@@ -4574,11 +4421,7 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CAP_800",
@@ -4601,7 +4444,7 @@
         "UNDEAD",
         "BEAST"
       ],
-      "race": "언데드, 야수",
+      "race": "UNDEAD",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -4667,9 +4510,7 @@
       ],
       "mechanics": [
         "REBORN"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CAP_801",
@@ -4740,10 +4581,7 @@
       "mechanics": [
         "TAUNT",
         "REBORN"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CAP_802",
@@ -4816,10 +4654,7 @@
       ],
       "relatedDbfIds": [
         127063
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CAP_802t",
@@ -4827,7 +4662,7 @@
       "name": "으스스한 유령",
       "type": "MINION",
       "cardClass": "PRIEST",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 2,
       "text": "<b>환생</b>",
@@ -4840,7 +4675,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -4881,10 +4716,7 @@
       ],
       "mechanics": [
         "REBORN"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "CAP_803",
@@ -4906,7 +4738,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -4968,9 +4800,7 @@
       "mechanics": [
         "DEATHRATTLE",
         "REBORN"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CAP_804",
@@ -5045,11 +4875,7 @@
       "mechanics": [
         "BATTLECRY",
         "REBORN"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CAP_805",
@@ -5114,10 +4940,7 @@
       ],
       "relatedDbfIds": [
         127118
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CAP_805t",
@@ -5125,7 +4948,7 @@
       "name": "심령체",
       "type": "SPELL",
       "cardClass": "PRIEST",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 3,
       "text": "녹아 버린 내 하수인을 모두 다시 소환합니다.",
@@ -5158,11 +4981,7 @@
           "name": "주문 속성",
           "value": 6
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "CAP_806",
@@ -5242,11 +5061,7 @@
       "mechanics": [
         "BATTLECRY",
         "REBORN"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_007",
@@ -5268,7 +5083,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -5335,9 +5150,7 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_029",
@@ -5401,11 +5214,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_030",
@@ -5469,11 +5278,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_035",
@@ -5543,11 +5348,7 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_101",
@@ -5616,11 +5417,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_118",
@@ -5694,11 +5491,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_122",
@@ -5777,11 +5570,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_123",
@@ -5871,11 +5660,7 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_125",
@@ -5935,10 +5720,7 @@
       ],
       "mechanics": [
         "FREEZE"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_200",
@@ -5989,11 +5771,7 @@
           "name": "수집 가능",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_201",
@@ -6046,11 +5824,7 @@
       "relatedDbfIds": [
         130019,
         130020
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_201a",
@@ -6058,7 +5832,7 @@
       "name": "이것 조금",
       "type": "SPELL",
       "cardClass": "DRUID",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 0,
       "text": "이번 턴에\n내 영웅이 공격력을\n+2 얻습니다.",
@@ -6080,12 +5854,7 @@
           "name": "카드 유형",
           "value": 5
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_201b",
@@ -6093,7 +5862,7 @@
       "name": "저것 약간",
       "type": "SPELL",
       "cardClass": "DRUID",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 0,
       "text": "무작위 드루이드 카드를 얻습니다.",
@@ -6115,12 +5884,7 @@
           "name": "카드 유형",
           "value": 5
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_202",
@@ -6142,7 +5906,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -6195,9 +5959,7 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_204",
@@ -6219,7 +5981,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -6262,9 +6024,7 @@
           "name": "수집 가능",
           "value": 1
         }
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_205",
@@ -6328,11 +6088,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_206",
@@ -6394,10 +6150,7 @@
           "name": "게임 태그 4705",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_225",
@@ -6443,11 +6196,7 @@
           "name": "수집 가능",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_303",
@@ -6522,11 +6271,7 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_307",
@@ -6578,10 +6323,7 @@
           "name": "주문 속성",
           "value": 2
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_311",
@@ -6645,11 +6387,7 @@
       ],
       "mechanics": [
         "TAUNT"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_312",
@@ -6708,11 +6446,7 @@
       ],
       "relatedDbfIds": [
         564
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_313",
@@ -6781,11 +6515,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_315",
@@ -6850,10 +6580,7 @@
       ],
       "mechanics": [
         "SECRET"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_319",
@@ -6931,10 +6658,7 @@
       ],
       "relatedDbfIds": [
         131199
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_319t",
@@ -6942,7 +6666,7 @@
       "name": "열쇠 변화!",
       "type": "SPELL",
       "cardClass": "MAGE",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 0,
       "text": "선택지를 새로고침합니다.\n<i>(20% 확률로 피해를\n5 받습니다!)</i>",
@@ -6969,12 +6693,7 @@
           "name": "능력치 숨김",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_321",
@@ -7059,11 +6778,7 @@
       "mechanics": [
         "BATTLECRY",
         "SECRET"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_326",
@@ -7130,10 +6845,7 @@
           "name": "준비",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_327",
@@ -7210,10 +6922,7 @@
           "name": "성기사 오라",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_328",
@@ -7282,11 +6991,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_329",
@@ -7350,11 +7055,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_330",
@@ -7435,11 +7136,7 @@
         "TRIGGER_VISUAL",
         "TAUNT",
         "DIVINE_SHIELD"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_376",
@@ -7513,11 +7210,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_377",
@@ -7569,10 +7262,7 @@
           "name": "주문 속성",
           "value": 5
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_379",
@@ -7594,7 +7284,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "정령",
+      "race": "ELEMENTAL",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -7655,9 +7345,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_380",
@@ -7736,11 +7424,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_384",
@@ -7830,11 +7514,7 @@
       "mechanics": [
         "TAUNT",
         "START_OF_GAME"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_386",
@@ -7883,11 +7563,7 @@
       ],
       "relatedDbfIds": [
         127174
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_386t",
@@ -7895,7 +7571,7 @@
       "name": "장비 발견!",
       "type": "SPELL",
       "cardClass": "WARRIOR",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 1,
       "text": "<b>뽑을 때 시전</b>\n방어도를 2 얻습니다.",
@@ -7930,12 +7606,7 @@
       ],
       "mechanics": [
         "CASTS_WHEN_DRAWN"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_387",
@@ -7981,11 +7652,7 @@
           "name": "수집 가능",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_395",
@@ -8007,7 +7674,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -8074,9 +7741,7 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_397",
@@ -8191,11 +7856,7 @@
       "mechanics": [
         "TAUNT",
         "START_OF_GAME"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_398",
@@ -8217,7 +7878,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -8283,9 +7944,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_399",
@@ -8307,7 +7966,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -8383,9 +8042,7 @@
       ],
       "relatedDbfIds": [
         127507
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_399t1",
@@ -8393,7 +8050,7 @@
       "name": "할머니 임프",
       "type": "MINION",
       "cardClass": "WARLOCK",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 8,
       "text": "<b>도발</b>\n<b>생명력 흡수</b>",
@@ -8406,7 +8063,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -8458,10 +8115,7 @@
       "mechanics": [
         "TAUNT",
         "LIFESTEAL"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_407",
@@ -8552,10 +8206,14 @@
         "TRIGGER_VISUAL",
         "BATTLECRY"
       ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      "history": [
+        {
+          "before": "2026-07-22",
+          "changes": {
+            "cost": 6
+          }
+        }
+      ]
     },
     {
       "id": "JAIL_421",
@@ -8577,7 +8235,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -8643,9 +8301,7 @@
       ],
       "mechanics": [
         "CHARGE"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_430",
@@ -8667,7 +8323,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -8749,9 +8405,7 @@
       "mechanics": [
         "BATTLECRY",
         "START_OF_GAME"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_432",
@@ -8820,11 +8474,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_433",
@@ -8876,10 +8526,7 @@
           "name": "주문 속성",
           "value": 6
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_434",
@@ -8901,7 +8548,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -8957,9 +8604,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_435",
@@ -8982,7 +8627,7 @@
         "ELEMENTAL",
         "BEAST"
       ],
-      "race": "정령, 야수",
+      "race": "ELEMENTAL",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -9068,9 +8713,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_436",
@@ -9120,11 +8763,7 @@
       "relatedDbfIds": [
         126868,
         126869
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_436t",
@@ -9132,7 +8771,7 @@
       "name": "과부거미의 잔칫상",
       "type": "SPELL",
       "cardClass": "DRUID",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 2,
       "text": "이번 턴에 내 영웅이\n공격력을 +2 얻습니다.\n방어도를 2 얻습니다.\n\"과부거미의 연회\"를\n내 손으로 가져옵니다.",
@@ -9164,12 +8803,7 @@
           "name": "마우스를 올리면 카드 표시",
           "value": 126869
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_436t2",
@@ -9177,7 +8811,7 @@
       "name": "과부거미의 연회",
       "type": "SPELL",
       "cardClass": "DRUID",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 2,
       "text": "이번 턴에 내 영웅이\n공격력을 +4 얻습니다.\n방어도를 4 얻습니다.",
@@ -9204,12 +8838,7 @@
           "name": "카드 유형",
           "value": 5
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_440",
@@ -9231,7 +8860,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -9295,9 +8924,7 @@
       ],
       "relatedDbfIds": [
         78164
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_441",
@@ -9362,10 +8989,7 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_442",
@@ -9444,11 +9068,7 @@
         129675,
         126336,
         126337
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_442a",
@@ -9456,7 +9076,7 @@
       "name": "발각됨!",
       "type": "SPELL",
       "cardClass": "DEATHKNIGHT",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 1,
       "text": "아군 전장에 나왔습니다.",
@@ -9488,12 +9108,7 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_442b",
@@ -9501,7 +9116,7 @@
       "name": "변장함!",
       "type": "SPELL",
       "cardClass": "DEATHKNIGHT",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 1,
       "text": "적 전장에 나왔습니다.",
@@ -9533,12 +9148,7 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_443",
@@ -9560,7 +9170,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -9635,9 +9245,7 @@
       ],
       "relatedDbfIds": [
         129675
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_443t",
@@ -9645,7 +9253,7 @@
       "name": "파멸의 역병",
       "type": "SPELL",
       "cardClass": "DEATHKNIGHT",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 1,
       "text": "<b>뽑을 때 시전</b>\n내 영웅에게\n피해를 2 줍니다.",
@@ -9690,12 +9298,7 @@
       ],
       "mechanics": [
         "CASTS_WHEN_DRAWN"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_444",
@@ -9774,11 +9377,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_445",
@@ -9834,11 +9433,7 @@
           "name": "부정 룬",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_446",
@@ -9860,7 +9455,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -9964,9 +9559,7 @@
       ],
       "relatedDbfIds": [
         126366
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_446hp",
@@ -9974,7 +9567,7 @@
       "name": "흡혈귀의 입맞춤",
       "type": "HERO_POWER",
       "cardClass": "DEATHKNIGHT",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 3,
       "text": "하수인에게 공격력을 +3 부여합니다. 이 영웅 능력이 마나 대신 <b>시체</b>를 비용으로 사용합니다.",
@@ -10011,12 +9604,7 @@
           "name": "시체 소모",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_447",
@@ -10099,11 +9687,7 @@
       ],
       "relatedDbfIds": [
         126480
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_447t",
@@ -10111,7 +9695,7 @@
       "name": "탐정의 옷",
       "type": "SPELL",
       "cardClass": "NEUTRAL",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 4,
       "text": "하수인에게 +4/+4와\n<b>속공</b>을 부여합니다.",
@@ -10146,12 +9730,7 @@
       ],
       "mechanics": [
         "RUSH"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_448",
@@ -10231,11 +9810,7 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_450",
@@ -10327,11 +9902,7 @@
       ],
       "relatedDbfIds": [
         78164
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_451",
@@ -10411,10 +9982,7 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_452",
@@ -10492,11 +10060,7 @@
       "relatedDbfIds": [
         130022,
         130023
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_452a",
@@ -10504,7 +10068,7 @@
       "name": "발각됨!",
       "type": "SPELL",
       "cardClass": "SHAMAN",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 1,
       "text": "아군 전장에 나왔습니다.",
@@ -10536,12 +10100,7 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_452b",
@@ -10549,7 +10108,7 @@
       "name": "변장함!",
       "type": "SPELL",
       "cardClass": "SHAMAN",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 1,
       "text": "적 전장에 나왔습니다.",
@@ -10581,12 +10140,7 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_453",
@@ -10608,7 +10162,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -10664,9 +10218,7 @@
       ],
       "mechanics": [
         "TAUNT"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_454",
@@ -10733,11 +10285,7 @@
       ],
       "relatedDbfIds": [
         126319
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_454t",
@@ -10745,7 +10293,7 @@
       "name": "시체간호사",
       "type": "MINION",
       "cardClass": "DEATHKNIGHT",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 2,
       "text": "<b>생명력 흡수</b>",
@@ -10758,7 +10306,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -10799,10 +10347,7 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_455",
@@ -10880,11 +10425,7 @@
       "relatedDbfIds": [
         130024,
         130025
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_455a",
@@ -10892,7 +10433,7 @@
       "name": "발각됨!",
       "type": "SPELL",
       "cardClass": "WARRIOR",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 1,
       "text": "아군 전장에 나왔습니다.",
@@ -10924,12 +10465,7 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_455b",
@@ -10937,7 +10473,7 @@
       "name": "변장함!",
       "type": "SPELL",
       "cardClass": "WARRIOR",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 1,
       "text": "적 전장에 나왔습니다.",
@@ -10969,12 +10505,7 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_456",
@@ -10996,7 +10527,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "기계",
+      "race": "MECHANICAL",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -11047,9 +10578,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_457",
@@ -11072,7 +10601,7 @@
         "ELEMENTAL",
         "MECHANICAL"
       ],
-      "race": "정령, 기계",
+      "race": "ELEMENTAL",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -11153,9 +10682,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_458",
@@ -11246,11 +10773,7 @@
         127715,
         127716,
         127717
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_458t1",
@@ -11324,12 +10847,7 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "FREEZE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_458t2",
@@ -11397,12 +10915,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_458t3",
@@ -11476,12 +10989,7 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "TAUNT"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_458t4",
@@ -11555,12 +11063,7 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_459",
@@ -11582,7 +11085,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -11644,9 +11147,7 @@
       "mechanics": [
         "POISONOUS",
         "RUSH"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_460",
@@ -11668,7 +11169,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "기계",
+      "race": "MECHANICAL",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -11719,9 +11220,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_461",
@@ -11799,11 +11298,7 @@
       "relatedDbfIds": [
         130026,
         130027
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_461a",
@@ -11811,7 +11306,7 @@
       "name": "발각됨!",
       "type": "SPELL",
       "cardClass": "NEUTRAL",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 1,
       "text": "아군 전장에 나왔습니다.",
@@ -11843,12 +11338,7 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_461b",
@@ -11856,7 +11346,7 @@
       "name": "변장함!",
       "type": "SPELL",
       "cardClass": "NEUTRAL",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 1,
       "text": "적 전장에 나왔습니다.",
@@ -11888,12 +11378,7 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_462",
@@ -11915,7 +11400,7 @@
       "races": [
         "QUILBOAR"
       ],
-      "race": "가시멧돼지",
+      "race": "QUILBOAR",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -11987,9 +11472,7 @@
       "mechanics": [
         "CHARGE",
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_470",
@@ -12058,11 +11541,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_474",
@@ -12114,10 +11593,14 @@
           "value": 1
         }
       ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      "history": [
+        {
+          "before": "2026-08-19",
+          "changes": {
+            "cost": 3
+          }
+        }
+      ]
     },
     {
       "id": "JAIL_500",
@@ -12178,11 +11661,7 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_501",
@@ -12256,11 +11735,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_502",
@@ -12282,7 +11757,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "기계",
+      "race": "MECHANICAL",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -12328,9 +11803,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_503",
@@ -12394,11 +11867,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_504",
@@ -12492,11 +11961,7 @@
         129988,
         129989,
         131327
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_504t",
@@ -12504,7 +11969,7 @@
       "name": "비취 동전",
       "type": "SPELL",
       "cardClass": "ROGUE",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 0,
       "text": "이번 턴에만 마나 수정을 1개 얻습니다. <b>비취 골렘</b>을 소환합니다.",
@@ -12544,12 +12009,7 @@
       ],
       "relatedDbfIds": [
         42098
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_504t2",
@@ -12557,7 +12017,7 @@
       "name": "험악한 동전",
       "type": "SPELL",
       "cardClass": "ROGUE",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 0,
       "text": "이번 턴에만 마나 수정을 1개 얻습니다. 무작위 적 하수인에게 피해를 $2 줍니다.",
@@ -12584,12 +12044,7 @@
           "name": "동전 카드",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_504t3",
@@ -12597,7 +12052,7 @@
       "name": "비밀결사 동전",
       "type": "SPELL",
       "cardClass": "ROGUE",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 0,
       "text": "이번 턴에만 마나 수정을 1개 얻습니다. 비용이 1인 무작위 카자쿠스의 물약을 얻습니다.",
@@ -12624,12 +12079,7 @@
           "name": "동전 카드",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_504t3p",
@@ -12637,7 +12087,7 @@
       "name": "카자쿠스의 물약",
       "type": "SPELL",
       "cardClass": "NEUTRAL",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 1,
       "text": "",
@@ -12664,12 +12114,7 @@
           "name": "카드 유형",
           "value": 5
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_504tt01",
@@ -12677,7 +12122,7 @@
       "name": "비취 골렘",
       "type": "MINION",
       "cardClass": "NEUTRAL",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 1,
       "text": "",
@@ -12719,12 +12164,7 @@
           "name": "비취 골렘",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_504tt04",
@@ -12732,7 +12172,7 @@
       "name": "비취 골렘",
       "type": "MINION",
       "cardClass": "NEUTRAL",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 4,
       "text": "",
@@ -12774,12 +12214,7 @@
           "name": "비취 골렘",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_504tt07",
@@ -12787,7 +12222,7 @@
       "name": "비취 골렘",
       "type": "MINION",
       "cardClass": "NEUTRAL",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 7,
       "text": "",
@@ -12829,12 +12264,7 @@
           "name": "비취 골렘",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_504tt20",
@@ -12842,7 +12272,7 @@
       "name": "비취 골렘",
       "type": "MINION",
       "cardClass": "NEUTRAL",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 10,
       "text": "",
@@ -12884,12 +12314,7 @@
           "name": "비취 골렘",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_507",
@@ -12959,11 +12384,7 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_509",
@@ -12985,7 +12406,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -13061,9 +12482,7 @@
       ],
       "mechanics": [
         "START_OF_GAME"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_510",
@@ -13115,10 +12534,14 @@
           "value": 1
         }
       ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      "history": [
+        {
+          "before": "2026-07-22",
+          "changes": {
+            "cost": 9
+          }
+        }
+      ]
     },
     {
       "id": "JAIL_511",
@@ -13182,11 +12605,7 @@
       ],
       "relatedDbfIds": [
         126476
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_511t",
@@ -13194,7 +12613,7 @@
       "name": "쉬바라 침투요원",
       "type": "MINION",
       "cardClass": "WARLOCK",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 1,
       "text": "",
@@ -13207,7 +12626,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -13240,10 +12659,7 @@
           "name": "카드 유형",
           "value": 4
         }
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_513",
@@ -13265,7 +12681,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -13332,9 +12748,7 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_514",
@@ -13391,10 +12805,7 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_515",
@@ -13446,10 +12857,7 @@
           "name": "주문 속성",
           "value": 6
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_516",
@@ -13519,11 +12927,7 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_703",
@@ -13587,11 +12991,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_706",
@@ -13637,11 +13037,7 @@
           "name": "수집 가능",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_718",
@@ -13735,11 +13131,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_719",
@@ -13824,11 +13216,7 @@
       "mechanics": [
         "BATTLECRY",
         "LIFESTEAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_720",
@@ -13907,11 +13295,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_721",
@@ -14001,11 +13385,7 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "RUSH"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_730",
@@ -14097,11 +13477,7 @@
       ],
       "relatedDbfIds": [
         126662
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_732",
@@ -14158,10 +13534,7 @@
           "name": "주문 속성",
           "value": 6
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_733",
@@ -14183,7 +13556,7 @@
       "races": [
         "NAGA"
       ],
-      "race": "나가",
+      "race": "NAGA",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -14259,8 +13632,15 @@
       "relatedDbfIds": [
         126662
       ],
-      "spellSchool": "",
-      "classes": []
+      "history": [
+        {
+          "from": "2026-07-22",
+          "before": "2026-08-05",
+          "changes": {
+            "cost": 2
+          }
+        }
+      ]
     },
     {
       "id": "JAIL_734",
@@ -14346,11 +13726,7 @@
         "TAUNT",
         "BATTLECRY",
         "DISCOVER"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_735",
@@ -14422,10 +13798,7 @@
           "name": "준비",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_800",
@@ -14518,11 +13891,7 @@
       "relatedDbfIds": [
         127468,
         127476
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_800hp1",
@@ -14530,7 +13899,7 @@
       "name": "머그의 마법",
       "type": "HERO_POWER",
       "cardClass": "SHAMAN",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 0,
       "text": "<b>지속 능력</b>, 매 턴마다 내가 처음 내는 하수인의 비용이 (2) 감소합니다. <i>(3턴에 잠금 해제됩니다.)</i>",
@@ -14575,12 +13944,7 @@
       ],
       "relatedDbfIds": [
         126416
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_800hp2",
@@ -14588,7 +13952,7 @@
       "name": "지의 힘",
       "type": "HERO_POWER",
       "cardClass": "SHAMAN",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 0,
       "text": "<b><b>지속 능력</b></b>, 내가 내는\n다섯 번째 하수인마다 그\n하수인의 <b>전투의 함성</b>이\n두 번 발동합니다.\n",
@@ -14646,12 +14010,7 @@
       ],
       "relatedDbfIds": [
         126416
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_801",
@@ -14726,10 +14085,7 @@
       ],
       "relatedDbfIds": [
         126408
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_801t",
@@ -14737,7 +14093,7 @@
       "name": "녹아내린 황금 정령",
       "type": "MINION",
       "cardClass": "SHAMAN",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 3,
       "text": "<b>전투의 함성:</b>\n피해를 4 줍니다.",
@@ -14750,7 +14106,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "정령",
+      "race": "ELEMENTAL",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -14791,10 +14147,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_802",
@@ -14816,7 +14169,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "정령",
+      "race": "ELEMENTAL",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -14874,8 +14227,14 @@
         "TRIGGER_VISUAL",
         "BATTLECRY"
       ],
-      "spellSchool": "",
-      "classes": []
+      "history": [
+        {
+          "before": "2026-08-19",
+          "changes": {
+            "cost": 1
+          }
+        }
+      ]
     },
     {
       "id": "JAIL_803",
@@ -14958,10 +14317,7 @@
       ],
       "relatedDbfIds": [
         126411
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_803t",
@@ -14969,7 +14325,7 @@
       "name": "냉기분쇄 정령",
       "type": "MINION",
       "cardClass": "SHAMAN",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 5,
       "text": "<b>전투의 함성:</b> 적을 <b>빙결</b> 상태로 만듭니다. 카드를 두 장 뽑습니다.",
@@ -14982,7 +14338,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "정령",
+      "race": "ELEMENTAL",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -15029,10 +14385,7 @@
       "mechanics": [
         "FREEZE",
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_805",
@@ -15110,10 +14463,7 @@
       ],
       "relatedDbfIds": [
         126414
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_805t",
@@ -15121,7 +14471,7 @@
       "name": "폭풍격노 정령",
       "type": "MINION",
       "cardClass": "SHAMAN",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 7,
       "text": "<b>생명력 흡수</b>, <b>전투의 함성:</b> 모든 적 하수인에게 피해를 2 줍니다.",
@@ -15134,7 +14484,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "정령",
+      "race": "ELEMENTAL",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -15181,10 +14531,7 @@
       "mechanics": [
         "BATTLECRY",
         "LIFESTEAL"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_806",
@@ -15248,11 +14595,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_831",
@@ -15274,7 +14617,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -15386,9 +14729,7 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_850",
@@ -15468,11 +14809,7 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "DORMANT"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_851",
@@ -15494,7 +14831,7 @@
       "races": [
         "MURLOC"
       ],
-      "race": "멀록",
+      "race": "MURLOC",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -15555,9 +14892,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_852",
@@ -15631,11 +14966,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_860",
@@ -15724,11 +15055,7 @@
       ],
       "mechanics": [
         "START_OF_GAME"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_861",
@@ -15792,11 +15119,7 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_866",
@@ -15847,11 +15170,7 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_872",
@@ -15930,11 +15249,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_875",
@@ -16014,11 +15329,7 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "DISCOVER"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_876",
@@ -16072,11 +15383,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_877",
@@ -16138,11 +15445,7 @@
       ],
       "relatedDbfIds": [
         127698
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_877t",
@@ -16150,7 +15453,7 @@
       "name": "속물 수집가",
       "type": "MINION",
       "cardClass": "HUNTER",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 2,
       "text": "<b>죽음의 메아리:</b>\n카드를 뽑습니다.",
@@ -16163,7 +15466,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -16204,10 +15507,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_878",
@@ -16229,7 +15529,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -16285,9 +15585,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_879",
@@ -16341,11 +15639,7 @@
       ],
       "relatedDbfIds": [
         126421
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_879t",
@@ -16353,7 +15647,7 @@
       "name": "작동한 야수 철사덫",
       "type": "SPELL",
       "cardClass": "HUNTER",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 4,
       "text": "<b>뽑을 때 시전</b> 비용이 5인 무작위 야수를 소환합니다.",
@@ -16388,12 +15682,7 @@
       ],
       "mechanics": [
         "CASTS_WHEN_DRAWN"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_880",
@@ -16469,11 +15758,7 @@
         "TRIGGER_VISUAL",
         "DEATHRATTLE",
         "RUSH"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_881",
@@ -16538,10 +15823,7 @@
       ],
       "relatedDbfIds": [
         126424
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_881t",
@@ -16549,7 +15831,7 @@
       "name": "작동한 비전 철사덫",
       "type": "SPELL",
       "cardClass": "HUNTER",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 3,
       "text": "<b>뽑을 때 시전</b>\n모든 적에게 $4의 피해를\n무작위로 나누어 줍니다.",
@@ -16595,11 +15877,7 @@
       ],
       "mechanics": [
         "CASTS_WHEN_DRAWN"
-      ],
-      "race": "",
-      "races": [],
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_882",
@@ -16621,7 +15899,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "기계",
+      "race": "MECHANICAL",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -16693,9 +15971,7 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_883",
@@ -16780,11 +16056,7 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "REBORN"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_887",
@@ -16878,11 +16150,7 @@
       "relatedDbfIds": [
         126499,
         127277
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_887t2",
@@ -16890,7 +16158,7 @@
       "name": "파멸자 주라마트",
       "type": "MINION",
       "cardClass": "NEUTRAL",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 8,
       "text": "내 턴이 끝날 때, 주라마트의 감옥이 버린 카드를 냅니다.",
@@ -16945,12 +16213,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_887t3",
@@ -16958,7 +16221,7 @@
       "name": "공허의 속삭임",
       "type": "MINION",
       "cardClass": "NEUTRAL",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 5,
       "text": "<b>도발</b>",
@@ -17008,12 +16271,7 @@
       ],
       "mechanics": [
         "TAUNT"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_890",
@@ -17035,7 +16293,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -17101,9 +16359,7 @@
       ],
       "mechanics": [
         "TAUNT"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_891",
@@ -17168,10 +16424,7 @@
       ],
       "relatedDbfIds": [
         126662
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_892",
@@ -17231,10 +16484,7 @@
       ],
       "mechanics": [
         "OUTCAST"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_906",
@@ -17256,7 +16506,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -17327,9 +16577,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_909",
@@ -17403,11 +16651,7 @@
       ],
       "mechanics": [
         "COMBO"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_912",
@@ -17502,11 +16746,7 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_913",
@@ -17576,10 +16816,7 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_940",
@@ -17639,10 +16876,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_941",
@@ -17707,10 +16941,7 @@
       ],
       "relatedDbfIds": [
         126897
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_941t",
@@ -17718,7 +16949,7 @@
       "name": "암흑 포옹",
       "type": "SPELL",
       "cardClass": "PRIEST",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 2,
       "text": "피해를 $4 줍니다.",
@@ -17751,11 +16982,7 @@
           "name": "주문 속성",
           "value": 6
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "JAIL_942",
@@ -17778,7 +17005,7 @@
         "UNDEAD",
         "DRAENEI"
       ],
-      "race": "언데드, 드레나이",
+      "race": "UNDEAD",
       "set": "ESCAPEFROM_VIOLET_HOLD",
       "nativeTags": [
         {
@@ -17839,9 +17066,7 @@
       ],
       "mechanics": [
         "TAUNT"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_974",
@@ -17920,11 +17145,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_986",
@@ -17993,11 +17214,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_987",
@@ -18058,11 +17275,7 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_997",
@@ -18121,11 +17334,7 @@
       ],
       "mechanics": [
         "DORMANT"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_998",
@@ -18210,11 +17419,7 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "JAIL_EVENT_101hp",
@@ -18259,12 +17464,7 @@
           "name": "희귀도",
           "value": 4
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     }
   ]
 }
