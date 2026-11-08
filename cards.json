@@ -8205,6 +8205,14 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "BATTLECRY"
+      ],
+      "history": [
+        {
+          "before": "2026-07-22",
+          "changes": {
+            "cost": 6
+          }
+        }
       ]
     },
     {
@@ -11584,6 +11592,14 @@
           "name": "게임 태그 1724",
           "value": 1
         }
+      ],
+      "history": [
+        {
+          "before": "2026-08-19",
+          "changes": {
+            "cost": 3
+          }
+        }
       ]
     },
     {
@@ -12516,6 +12532,14 @@
           "id": 2589,
           "name": "간판 카드 존재",
           "value": 1
+        }
+      ],
+      "history": [
+        {
+          "before": "2026-07-22",
+          "changes": {
+            "cost": 9
+          }
         }
       ]
     },
@@ -13607,6 +13631,15 @@
       ],
       "relatedDbfIds": [
         126662
+      ],
+      "history": [
+        {
+          "from": "2026-07-22",
+          "before": "2026-08-05",
+          "changes": {
+            "cost": 2
+          }
+        }
       ]
     },
     {
@@ -14193,6 +14226,14 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "BATTLECRY"
+      ],
+      "history": [
+        {
+          "before": "2026-08-19",
+          "changes": {
+            "cost": 1
+          }
+        }
       ]
     },
     {

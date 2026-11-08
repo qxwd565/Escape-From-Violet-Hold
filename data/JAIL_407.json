@@ -94,7 +94,15 @@
       }
     ],
     "nativeRawText": "<b>준비</b>, 내가 카드를 낸 후에, 무작위 <b>전투의 함성</b> 하수인을 얻습니다. 그 하수인의 비용이 (2) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "history": [
+      {
+        "before": "2026-07-22",
+        "changes": {
+          "cost": 6
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [],

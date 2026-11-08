@@ -96,7 +96,16 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>죽음의 메아리</b>:& 공허의 영혼을 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "history": [
+      {
+        "from": "2026-07-22",
+        "before": "2026-08-05",
+        "changes": {
+          "cost": 2
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [

@@ -81,7 +81,15 @@
       }
     ],
     "nativeRawText": "내가 <b>전투의 함성</b>\n하수인을 낸 후에,\n그 하수인에게 +1/+1을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "history": [
+      {
+        "before": "2026-08-19",
+        "changes": {
+          "cost": 1
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [],

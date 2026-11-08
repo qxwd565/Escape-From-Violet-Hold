@@ -59,7 +59,15 @@
       }
     ],
     "nativeRawText": "[x]모든 하수인을 처치합니다.\n내 덱 맨 밑에 있는 카드\n3장 중에 악마가 있으면\n모두 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "history": [
+      {
+        "before": "2026-07-22",
+        "changes": {
+          "cost": 9
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [],

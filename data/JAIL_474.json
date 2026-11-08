@@ -59,7 +59,15 @@
       }
     ],
     "nativeRawText": "비용이 8인 무작위 하수인을 둘 얻습니다. 내가 이번 게임에 마나 2개로 낸 카드 하나당 그 하수인들의 비용이 (1) 감소합니다.@ <i>(@)</i>",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "history": [
+      {
+        "before": "2026-08-19",
+        "changes": {
+          "cost": 3
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [],
