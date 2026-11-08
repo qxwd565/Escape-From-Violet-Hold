@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "timezone": "Asia/Seoul",
+  "default": {
+    "date": "2026-07-08",
+    "status": "verified"
+  },
+  "prefixes": {
+    "JAIL_": {
+      "date": "2026-07-08",
+      "status": "verified"
+    },
+    "CAP_": {
+      "date": "2026-08-26",
+      "status": "verified"
+    }
+  },
+  "cards": {},
+  "sources": {
+    "main": "https://hearthstone.blizzard.com/ko-kr/expansions-adventures/escape-from-violet-hold",
+    "class": "https://hearthstone.blizzard.com/ko-kr/news/24293282"
+  }
+}
