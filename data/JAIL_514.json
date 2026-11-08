@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "[x]카드를 3장 뽑습니다.\n내 손에 있는 카드 1장당\n비용이 (1)씩 감소합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -126,7 +126,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성</b>:& 비용으로 <b>시체</b>를 사용하는 두 번째 영웅 능력을 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

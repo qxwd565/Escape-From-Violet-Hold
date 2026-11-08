@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "[x]어느 쪽에든 낼 수 있습니다.\n<b>죽음의 메아리:</b> 뽑으면 피해를\n2 주는 파멸의 역병 4장을\n내 덱에 섞어 넣습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

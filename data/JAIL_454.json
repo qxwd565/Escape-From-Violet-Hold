@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "[x]적 하수인을 선택합니다.\n그 하수인을 공격하는\n<b>생명력 흡수</b> 능력이 있는\n3/1 언데드를 넷 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

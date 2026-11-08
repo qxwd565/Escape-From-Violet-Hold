@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "아군 하수인이 피해를\n받고 생존한 후에,\n그 하수인에게 공격력을 +1 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

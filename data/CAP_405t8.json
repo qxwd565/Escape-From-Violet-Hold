@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "[x]내 영웅이 생명력을\n#12 회복합니다.",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2026-08-26",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

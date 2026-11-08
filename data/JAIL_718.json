@@ -99,7 +99,9 @@
       }
     ],
     "nativeRawText": "<b>준비</b>, 내가 주문을 시전할 때마다& 카드를 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

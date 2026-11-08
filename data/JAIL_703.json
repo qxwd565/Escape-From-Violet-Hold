@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리:</b> 이번 게임에 사과할 수 있습니다.",
-    "nativeTextBuilder": 2
+    "nativeTextBuilder": 2,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

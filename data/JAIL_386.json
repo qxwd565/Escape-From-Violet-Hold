@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "방어도를 2 얻습니다.\n뽑으면 방어도를 2 부여하는 장비 주문 다섯 개를 내 덱에 섞어 넣습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "<b><b>은신</b>.</b> <b><b>은신</b>한</b> 아군 하수인이 공격할 때마다, 그 하수인에게 +2/+2을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-08-26",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

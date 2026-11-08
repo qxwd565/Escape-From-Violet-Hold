@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내 손에 있는\n카드를 선택합니다. 그 카드를 비용이 (5) 더 높은 주문으로 바꿉니다. <i>(선택한 카드의 원래 비용을 유지합니다.)</i>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

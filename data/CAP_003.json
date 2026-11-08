@@ -94,7 +94,9 @@
       }
     ],
     "nativeRawText": "<b>은신</b>, 이 하수인이 공격한 후에,& 카드를 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-08-26",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

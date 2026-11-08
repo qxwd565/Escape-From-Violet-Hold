@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>준비</b>, 하수인에게 +5/+5와 <b>생명력 흡수</b>를 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

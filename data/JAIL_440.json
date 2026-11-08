@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "이 하수인이 피해를 받은 후에,& 1/1 취약한 구울을 둘 소환합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "적들에게 $3의 피해를 무작위로 나누어 줍니다. 이번 턴에 아군 하수인이 죽었으면, $3 더 줍니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

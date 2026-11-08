@@ -119,7 +119,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, 내 덱을 만들 때, 비용이 2인 하수인을 선택합니다.\n그 하수인이 내 덱에 10장 들어옵니다!",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성</b>: 내 덱에 있는 주문을 공개합니다. 그 주문의 비용이 (5) 이상이면,& 적 하수인들에게 5의 피해를 무작위로 나누어 입힙니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

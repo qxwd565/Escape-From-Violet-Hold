@@ -94,7 +94,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성</b>:& 비용이 (5) 이상인 주문을 <b>발견</b>합니다. 그 주문을 내면 두 번 시전됩니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

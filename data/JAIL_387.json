@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "[x]내 손에 있는 하수인들에게\n+1/+1을 부여합니다.\n<b> 전설</b> 하수인은 추가로\n+2/+1을 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -99,7 +99,9 @@
       }
     ],
     "nativeRawText": "<b>준비</b>, <b>도발</b>, <b>죽음의 메아리</b>: 내 영웅의 생명력을 #6 회복시킵니다.& 비용이 6인 무작위 하수인을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -71,7 +71,9 @@
       }
     ],
     "nativeRawText": "전장에 하수인이 없으면 비용이 (2)가 됩니다.",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

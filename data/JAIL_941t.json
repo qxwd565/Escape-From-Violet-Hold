@@ -49,7 +49,9 @@
       }
     ],
     "nativeRawText": "피해를 $4 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

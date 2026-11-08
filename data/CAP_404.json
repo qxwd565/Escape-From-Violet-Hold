@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "[x]다음 턴에 적 하수인들의\n비용이 (2) 증가합니다.\n상대편의 덱에 3/3\n임프 정보통을 둘 넣습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-08-26",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

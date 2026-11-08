@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 원소 탄약을 선택합니다! <i>(내 영웅이 공격한 후, 다른 원소 탄약을 선택합니다).</i>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

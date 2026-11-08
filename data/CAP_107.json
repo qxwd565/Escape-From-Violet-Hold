@@ -92,7 +92,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 턴이 끝날 때 무작위 적에게 피해를 1 주는 1/1 포대장을 얻습니다.",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2026-08-26",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

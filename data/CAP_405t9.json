@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "공허군주를 소환합니다.",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2026-08-26",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

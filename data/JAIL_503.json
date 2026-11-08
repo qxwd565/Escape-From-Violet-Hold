@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "내 손에 있는 동전 하나당 비용이 (1) 감소합니다. <b>죽음의 메아리:</b> 카드를 뽑습니다.",
-    "nativeTextBuilder": 1
+    "nativeTextBuilder": 1,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "<b>준비</b>, <b>전투의 함성:</b> 내 다른 모든 하수인을 처치합니다. 카드를 뽑고 처치한 하수인 하나당\n마나 수정을 1개씩 회복합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

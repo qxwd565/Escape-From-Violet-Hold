@@ -49,7 +49,9 @@
       }
     ],
     "nativeRawText": "재판이 바로 끝납니다!",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-08-26",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

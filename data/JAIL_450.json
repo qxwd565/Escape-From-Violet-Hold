@@ -94,7 +94,9 @@
       }
     ],
     "nativeRawText": "내 영웅이 공격한 후에& 1/1 취약한 구울을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "<b>비밀:</b> 적 하수인이 공격할 때, 그 하수인을 1/1 양으로 변신시킵니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

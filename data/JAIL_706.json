@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "비용이 4인 무작위\n주문을 둘 얻습니다.\n그 주문들의 비용이 (2) 감소합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

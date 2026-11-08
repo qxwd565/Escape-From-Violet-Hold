@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "내 영웅이 공격한 후, 모든 적에게 피해를 1 줍니다. 다른 탄약을 선택합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

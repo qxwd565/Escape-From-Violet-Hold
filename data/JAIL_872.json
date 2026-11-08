@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "내 영웅이 공격한 후에,& 카드를 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

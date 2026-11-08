@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "[x]<b><b>지속 능력</b></b>, 내가 내는\n다섯 번째 하수인마다 그\n하수인의 <b>전투의 함성</b>이\n두 번 발동합니다.\n@ <i>({0}번 남음!)</i>@ <i>(준비 완료!)</i>",
-    "nativeTextBuilder": 11
+    "nativeTextBuilder": 11,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [

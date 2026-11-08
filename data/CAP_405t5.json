@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "내 손과 전장에 있는 하수인들에게 +3/+3을 부여합니다.",
-    "nativeTextBuilder": 26
+    "nativeTextBuilder": 26,
+    "releasedAt": "2026-08-26",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

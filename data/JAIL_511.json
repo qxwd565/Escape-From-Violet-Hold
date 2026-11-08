@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "악마를 소환합니다.\n능력치는 내 손에 있는 카드 수와 같습니다. 그 악마가 무작위 적 하수인을 공격합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

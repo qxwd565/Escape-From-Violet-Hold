@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "내 턴이 끝날 때, 내 턴 동안 상대편의 손에 들어간 모든 카드를 가져옵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

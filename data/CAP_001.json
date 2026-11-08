@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "하수인에게 공격력을 +3 부여합니다. 그 하수인이 <b><b>은신</b></b> 중이라면, 그 하수인의 공격력만큼 무작위 적 하수인에게 피해를 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-08-26",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -71,7 +71,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 적을 <b>빙결</b> 상태로 만듭니다. 카드를 두 장 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

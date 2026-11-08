@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "무작위 적에게 피해를 @ 줍니다. 내가 악마를 소환할 때마다, 이 영웅 능력을 새로고침합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

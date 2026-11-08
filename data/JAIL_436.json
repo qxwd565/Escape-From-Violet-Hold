@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "[x]이번 턴에 내 영웅이\n공격력을 +1 얻습니다.\n방어도를 1 얻습니다.\n\"과부거미의 잔칫상\"을\n내 손으로 가져옵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

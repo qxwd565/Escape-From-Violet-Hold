@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리</b>:& 비용이 1인 무작위 <b>죽음의 메아리</b> 하수인을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

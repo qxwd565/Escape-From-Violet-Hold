@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내가 이번 게임에 주문을 시전한 후에, 같은 비용의 무작위 하수인을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

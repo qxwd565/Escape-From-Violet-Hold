@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>. 내 손에 있을 때 <b>준비</b>하면, 이 카드의 비용이 그만큼 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -96,7 +96,9 @@
       }
     ],
     "nativeRawText": "<b>돌진</b>. 이 하수인은 영웅에게 피해를 주는 대신, 뽑으면 피해를 2 주는 파멸의 역병을 그만큼 그 영웅의 덱에 섞어 넣습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

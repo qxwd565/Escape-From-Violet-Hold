@@ -44,7 +44,9 @@
       }
     ],
     "nativeRawText": "[x]선택지를 새로고침합니다.\n<i>(20% 확률로 피해를\n5 받습니다!)</i>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

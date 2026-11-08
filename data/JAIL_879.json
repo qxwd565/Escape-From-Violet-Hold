@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "비용이 5인 무작위 야수를 소환합니다. 뽑으면 이것을 반복하는 주문 2개를 내 덱에 섞어 넣습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

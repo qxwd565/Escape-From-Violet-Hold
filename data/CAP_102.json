@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "[x]카드를 2장 뽑습니다.\n1/1 포대장을\n둘 소환합니다.",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2026-08-26",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

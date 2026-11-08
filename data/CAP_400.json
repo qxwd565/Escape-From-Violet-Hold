@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리:</b> 상대편의 덱에 3/3 임프 정보통을 둘 넣습니다. 그 임프 정보통들은 상대가 뽑으면 나에게 소환됩니다.",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2026-08-26",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

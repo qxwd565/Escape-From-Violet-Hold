@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 원하는 모의재판을 직접 꾸밉니다! 그 후 재판의 길이를 선택합니다.",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2026-08-26",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

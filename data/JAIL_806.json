@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 비용이 (5) 이상인 무작위 주문을 얻습니다. 게임이 시작됐을 때 내 덱에 주문이 없었으면, 그 주문의 비용이 (5) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

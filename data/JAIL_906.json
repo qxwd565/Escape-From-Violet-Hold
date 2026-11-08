@@ -96,7 +96,9 @@
       }
     ],
     "nativeRawText": "<b>준비</b>, <b>죽음의 메아리:</b> 내 덱에서 무작위 악마를 소환합니다.\n그 악마에게 \"<b>죽음의 메아리:</b> 모라그 소환\" 능력을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

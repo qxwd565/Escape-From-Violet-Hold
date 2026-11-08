@@ -76,7 +76,9 @@
       }
     ],
     "nativeRawText": "[x]<b>생명력 흡수</b>\n<b>뽑을 때 소환</b> <i>(상대편에)</i>",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2026-08-26",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

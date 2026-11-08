@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "<b>지속 능력</b>, 매 턴마다 내가 처음 내는 하수인의 비용이 (2) 감소합니다. <i>(3턴에 잠금 해제됩니다.)</i>@<b>지속 능력</b>, 매 턴마다 내가 처음 내는 하수인의 비용이 (2) 감소합니다.",
-    "nativeTextBuilder": 6
+    "nativeTextBuilder": 6,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [

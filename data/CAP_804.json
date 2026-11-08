@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 아군 하수인에게 <b>환생</b> 능력을 부여합니다.\n그 하수인에게 이미 <b>환생</b> 능력이 있으면, 그 하수인을 복사하여 소환합니다. ",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2026-08-26",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "<b>준비</b>, <b>전투의 함성:</b> 이번 턴에 내가 주문을 시전했다면, 무작위 마법사 <b>비밀</b>을 둘 시전합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

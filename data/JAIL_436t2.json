@@ -44,7 +44,9 @@
       }
     ],
     "nativeRawText": "[x]이번 턴에 내 영웅이\n공격력을 +4 얻습니다.\n방어도를 4 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

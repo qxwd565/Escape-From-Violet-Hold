@@ -66,7 +66,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리:</b>\n카드를 뽑습니다.",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

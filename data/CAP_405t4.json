@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "카드를 3장 뽑습니다.",
-    "nativeTextBuilder": 26
+    "nativeTextBuilder": 26,
+    "releasedAt": "2026-08-26",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "이번 게임에서 죽은 무작위 아군 하수인의 <b>죽음의_메아리</b>를 발동합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

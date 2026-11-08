@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "하수인을 처치합니다. 이 주문이 내 손에 있을 때 내가 상대편의 카드를 복사한 카드를 냈으면, 이 주문의 비용이 (1)이 됩니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

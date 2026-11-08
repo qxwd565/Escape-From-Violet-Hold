@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "[x]<b>은신</b> 하수인을 <b>발견</b>합니다.\n그 하수인에게 한 턴 동안\n이 효과를 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-08-26",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

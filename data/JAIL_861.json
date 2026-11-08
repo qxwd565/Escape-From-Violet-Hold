@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "<b>선택</b> 카드를 <b>발견</b>합니다. 그 카드는 두 능력이 모두 발동합니다. 상대편에게\n그 카드를 강화 효과가 없는\n일반 카드로 복사하여 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

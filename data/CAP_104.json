@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "내 턴에, 아군 해적들이 피해를 1 더 줍니다.",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2026-08-26",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

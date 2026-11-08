@@ -94,7 +94,9 @@
       }
     ],
     "nativeRawText": "<b><b>은신</b>,</b> <b><b>은신</b></b>한 아군 하수인이 공격할 때마다,& 내 손에 있는 무작위 카드의 비용이 (3) 감소합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-08-26",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

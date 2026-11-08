@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "<b>준비</b>, <b>전투의_함성:</b>\n아군 하수인의 <b>죽음의_메아리</b> 능력을 발동시킵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

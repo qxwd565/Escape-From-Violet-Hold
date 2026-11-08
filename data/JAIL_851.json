@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 적의 손에 있는 카드를 조사합니다. 적이 다음 턴에 그 이름의 카드를 내면, 동전을 3개 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

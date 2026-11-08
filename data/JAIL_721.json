@@ -94,7 +94,9 @@
       }
     ],
     "nativeRawText": "[x]<b>준비, 속공</b>\n내가 악마를 소환한 후에,\n그 악마의 능력치를\n얻습니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

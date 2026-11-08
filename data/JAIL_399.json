@@ -96,7 +96,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>죽음의 메아리:</b>\n<b>도발</b>과 <b>생명력 흡수</b> 능력이 있는 8/8 악마 둘을 내 덱 맨 아래에 놓습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

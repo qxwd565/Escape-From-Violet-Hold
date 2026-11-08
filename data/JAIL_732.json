@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "비용이 @인 무작위 악마를 소환합니다. 미래의 내 공허의 영혼을 개선합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

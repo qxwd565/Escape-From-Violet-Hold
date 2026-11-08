@@ -101,7 +101,9 @@
       }
     ],
     "nativeRawText": "<b>개전:</b> 초과하여 뽑은 카드들이 공간이 생기면 내 손으로 돌아옵니다. 그 카드들의 비용이 (1) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

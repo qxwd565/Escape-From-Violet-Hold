@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "아군 하수인에게 \"<b>죽음의 메아리:</b> 비용이 4인 무작위 하수인을 둘 소환함\" 능력을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

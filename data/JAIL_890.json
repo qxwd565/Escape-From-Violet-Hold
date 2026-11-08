@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "[x]<b>준비</b>, <b>도발</b>\n<b>모든</b> 하수인의 비용이\n(2) 증가합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

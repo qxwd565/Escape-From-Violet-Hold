@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "\"<b>죽음의 메아리:</b> 카드를 뽑음\" 능력이 있는 2/1 쥐를 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

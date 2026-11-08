@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "내가 항상 두 번째로 시작합니다. <b>전투의 함성:</b> 이번 게임에\n내 동전을 대체할 강화된\n위조 동전을 골라, 3개 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

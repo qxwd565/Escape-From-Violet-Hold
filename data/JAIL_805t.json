@@ -71,7 +71,9 @@
       }
     ],
     "nativeRawText": "<b>생명력 흡수</b>, <b>전투의 함성:</b> 모든 적 하수인에게 피해를 2 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

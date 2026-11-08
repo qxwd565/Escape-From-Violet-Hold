@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "내 영웅이 공격한 후에, 내 포대장들이 발사합니다!",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2026-08-26",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

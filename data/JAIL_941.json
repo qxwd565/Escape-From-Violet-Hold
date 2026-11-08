@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "생명력을 #4 회복합니다. 피해를 4 주는 '암흑 포옹'을 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

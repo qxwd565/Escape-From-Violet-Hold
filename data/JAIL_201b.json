@@ -39,7 +39,9 @@
       }
     ],
     "nativeRawText": "무작위 드루이드 카드를 얻습니다.",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

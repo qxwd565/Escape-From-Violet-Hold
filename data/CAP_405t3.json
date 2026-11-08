@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "상대편의 손에서 카드를 2장 가져옵니다.",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2026-08-26",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "매 턴이 끝날 때,& <b>환생</b>을 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

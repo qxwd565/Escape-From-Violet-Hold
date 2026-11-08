@@ -94,7 +94,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>개전:</b> 내 덱에 있는 다른 모든 <b>전설</b> 카드를 복제합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

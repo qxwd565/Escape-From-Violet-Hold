@@ -136,7 +136,9 @@
       }
     ],
     "nativeRawText": "내 덱을 만들 때, 밀수품 야수를 3마리 고릅니다. <b>전투의 함성:</b>\n한 마리를 <b>발견</b>합니다. 그 야수의 비용이 (3) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

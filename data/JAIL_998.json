@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "<b>준비</b>, <b>전투의 함성:</b>\n아군 하수인에게\n공격력 +2와 <b>속공</b>을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

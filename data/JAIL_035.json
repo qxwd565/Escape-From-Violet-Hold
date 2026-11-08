@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>전투의 함성:</b> 내 덱에 중립 카드가 없으면, 경계하는 파수꾼을 둘 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

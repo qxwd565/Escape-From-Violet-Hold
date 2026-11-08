@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "무작위 적 하수인을 둘 처치합니다. 상대편의 덱에서 하수인을 <b>발견</b>하여 맨 위에 놓습니다.",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2026-08-26",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

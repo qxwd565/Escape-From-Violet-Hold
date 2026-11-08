@@ -80,7 +80,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "STEALTH"
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_001",
@@ -145,7 +147,9 @@
       ],
       "mechanics": [
         "STEALTH"
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_002",
@@ -215,7 +219,9 @@
       "mechanics": [
         "STEALTH",
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_003",
@@ -305,7 +311,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "STEALTH"
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_004",
@@ -394,7 +402,9 @@
       "relatedDbfIds": [
         130030,
         130031
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_004a",
@@ -434,7 +444,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_004b",
@@ -474,7 +486,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_005",
@@ -564,7 +578,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "STEALTH"
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_006",
@@ -628,7 +644,9 @@
       ],
       "mechanics": [
         "STEALTH"
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_101",
@@ -679,7 +697,9 @@
           "name": "미니 세트",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_102",
@@ -738,7 +758,9 @@
       ],
       "relatedDbfIds": [
         127012
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_103",
@@ -815,7 +837,9 @@
       ],
       "relatedDbfIds": [
         127012
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_104",
@@ -890,7 +914,9 @@
           "name": "미니 세트",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_105",
@@ -962,7 +988,9 @@
       ],
       "relatedDbfIds": [
         127012
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_106",
@@ -1078,7 +1106,9 @@
       ],
       "relatedDbfIds": [
         127012
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_107",
@@ -1170,7 +1200,9 @@
       ],
       "relatedDbfIds": [
         127012
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_107t",
@@ -1237,7 +1269,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_400",
@@ -1319,7 +1353,9 @@
       ],
       "relatedDbfIds": [
         127024
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_400t2t",
@@ -1391,7 +1427,9 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_401",
@@ -1468,7 +1506,9 @@
       ],
       "relatedDbfIds": [
         127024
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_402",
@@ -1527,7 +1567,9 @@
       ],
       "relatedDbfIds": [
         127024
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_403",
@@ -1591,7 +1633,9 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_404",
@@ -1650,7 +1694,9 @@
       ],
       "relatedDbfIds": [
         127024
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_405",
@@ -1832,7 +1878,9 @@
             "resultDbfId": 132831
           }
         ]
-      }
+      },
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_405t1",
@@ -1877,7 +1925,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_405t2",
@@ -1922,7 +1972,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_405t3",
@@ -1967,7 +2019,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_405t4",
@@ -2012,7 +2066,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_405t5",
@@ -2057,7 +2113,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_405t6",
@@ -2097,7 +2155,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_405t7",
@@ -2142,7 +2202,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_405t8",
@@ -2187,7 +2249,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_405t9",
@@ -2232,7 +2296,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_405tb1b",
@@ -2272,7 +2338,9 @@
           "name": "카드 유형",
           "value": 5
         }
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_405tb1",
@@ -2911,7 +2979,9 @@
             "dataFile": "data/CAP_405tb1_combo_036.json"
           }
         ]
-      }
+      },
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_405tb2b",
@@ -2951,7 +3021,9 @@
           "name": "카드 유형",
           "value": 5
         }
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_405tb2",
@@ -3590,7 +3662,9 @@
             "dataFile": "data/CAP_405tb2_combo_036.json"
           }
         ]
-      }
+      },
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_405tb3b",
@@ -3630,7 +3704,9 @@
           "name": "목표",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_405tb3",
@@ -4269,7 +4345,9 @@
             "dataFile": "data/CAP_405tb3_combo_036.json"
           }
         ]
-      }
+      },
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_406",
@@ -4352,7 +4430,9 @@
       ],
       "relatedDbfIds": [
         127024
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_407",
@@ -4421,7 +4501,9 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_800",
@@ -4510,7 +4592,9 @@
       ],
       "mechanics": [
         "REBORN"
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_801",
@@ -4581,7 +4665,9 @@
       "mechanics": [
         "TAUNT",
         "REBORN"
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_802",
@@ -4654,7 +4740,9 @@
       ],
       "relatedDbfIds": [
         127063
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_802t",
@@ -4716,7 +4804,9 @@
       ],
       "mechanics": [
         "REBORN"
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_803",
@@ -4800,7 +4890,9 @@
       "mechanics": [
         "DEATHRATTLE",
         "REBORN"
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_804",
@@ -4875,7 +4967,9 @@
       "mechanics": [
         "BATTLECRY",
         "REBORN"
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_805",
@@ -4940,7 +5034,9 @@
       ],
       "relatedDbfIds": [
         127118
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_805t",
@@ -4981,7 +5077,9 @@
           "name": "주문 속성",
           "value": 6
         }
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "CAP_806",
@@ -5061,7 +5159,9 @@
       "mechanics": [
         "BATTLECRY",
         "REBORN"
-      ]
+      ],
+      "releasedAt": "2026-08-26",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_007",
@@ -5150,7 +5250,9 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_029",
@@ -5214,7 +5316,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_030",
@@ -5278,7 +5382,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_035",
@@ -5348,7 +5454,9 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_101",
@@ -5417,7 +5525,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_118",
@@ -5491,7 +5601,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_122",
@@ -5570,7 +5682,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_123",
@@ -5660,7 +5774,9 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_125",
@@ -5720,7 +5836,9 @@
       ],
       "mechanics": [
         "FREEZE"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_200",
@@ -5771,7 +5889,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_201",
@@ -5824,7 +5944,9 @@
       "relatedDbfIds": [
         130019,
         130020
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_201a",
@@ -5854,7 +5976,9 @@
           "name": "카드 유형",
           "value": 5
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_201b",
@@ -5884,7 +6008,9 @@
           "name": "카드 유형",
           "value": 5
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_202",
@@ -5959,7 +6085,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_204",
@@ -6024,7 +6152,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_205",
@@ -6088,7 +6218,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_206",
@@ -6150,7 +6282,9 @@
           "name": "게임 태그 4705",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_225",
@@ -6196,7 +6330,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_303",
@@ -6271,7 +6407,9 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_307",
@@ -6323,7 +6461,9 @@
           "name": "주문 속성",
           "value": 2
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_311",
@@ -6387,7 +6527,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_312",
@@ -6446,7 +6588,9 @@
       ],
       "relatedDbfIds": [
         564
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_313",
@@ -6515,7 +6659,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_315",
@@ -6580,7 +6726,9 @@
       ],
       "mechanics": [
         "SECRET"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_319",
@@ -6658,7 +6806,9 @@
       ],
       "relatedDbfIds": [
         131199
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_319t",
@@ -6693,7 +6843,9 @@
           "name": "능력치 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_321",
@@ -6778,7 +6930,9 @@
       "mechanics": [
         "BATTLECRY",
         "SECRET"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_326",
@@ -6845,7 +6999,9 @@
           "name": "준비",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_327",
@@ -6922,7 +7078,9 @@
           "name": "성기사 오라",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_328",
@@ -6991,7 +7149,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_329",
@@ -7055,7 +7215,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_330",
@@ -7136,7 +7298,9 @@
         "TRIGGER_VISUAL",
         "TAUNT",
         "DIVINE_SHIELD"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_376",
@@ -7210,7 +7374,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_377",
@@ -7262,7 +7428,9 @@
           "name": "주문 속성",
           "value": 5
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_379",
@@ -7345,7 +7513,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_380",
@@ -7424,7 +7594,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_384",
@@ -7514,7 +7686,9 @@
       "mechanics": [
         "TAUNT",
         "START_OF_GAME"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_386",
@@ -7563,7 +7737,9 @@
       ],
       "relatedDbfIds": [
         127174
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_386t",
@@ -7606,7 +7782,9 @@
       ],
       "mechanics": [
         "CASTS_WHEN_DRAWN"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_387",
@@ -7652,7 +7830,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_395",
@@ -7741,7 +7921,9 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_397",
@@ -7856,7 +8038,9 @@
       "mechanics": [
         "TAUNT",
         "START_OF_GAME"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_398",
@@ -7944,7 +8128,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_399",
@@ -8042,7 +8228,9 @@
       ],
       "relatedDbfIds": [
         127507
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_399t1",
@@ -8115,7 +8303,9 @@
       "mechanics": [
         "TAUNT",
         "LIFESTEAL"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_407",
@@ -8205,7 +8395,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_421",
@@ -8293,7 +8485,9 @@
       ],
       "mechanics": [
         "CHARGE"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_430",
@@ -8397,7 +8591,9 @@
       "mechanics": [
         "BATTLECRY",
         "START_OF_GAME"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_432",
@@ -8466,7 +8662,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_433",
@@ -8518,7 +8716,9 @@
           "name": "주문 속성",
           "value": 6
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_434",
@@ -8596,7 +8796,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_435",
@@ -8705,7 +8907,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_436",
@@ -8755,7 +8959,9 @@
       "relatedDbfIds": [
         126868,
         126869
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_436t",
@@ -8795,7 +9001,9 @@
           "name": "마우스를 올리면 카드 표시",
           "value": 126869
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_436t2",
@@ -8830,7 +9038,9 @@
           "name": "카드 유형",
           "value": 5
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_440",
@@ -8916,7 +9126,9 @@
       ],
       "relatedDbfIds": [
         78164
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_441",
@@ -8981,7 +9193,9 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_442",
@@ -9060,7 +9274,9 @@
         129675,
         126336,
         126337
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_442a",
@@ -9100,7 +9316,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_442b",
@@ -9140,7 +9358,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_443",
@@ -9237,7 +9457,9 @@
       ],
       "relatedDbfIds": [
         129675
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_443t",
@@ -9290,7 +9512,9 @@
       ],
       "mechanics": [
         "CASTS_WHEN_DRAWN"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_444",
@@ -9369,7 +9593,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_445",
@@ -9425,7 +9651,9 @@
           "name": "부정 룬",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_446",
@@ -9551,7 +9779,9 @@
       ],
       "relatedDbfIds": [
         126366
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_446hp",
@@ -9596,7 +9826,9 @@
           "name": "시체 소모",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_447",
@@ -9679,7 +9911,9 @@
       ],
       "relatedDbfIds": [
         126480
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_447t",
@@ -9722,7 +9956,9 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_448",
@@ -9802,7 +10038,9 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_450",
@@ -9894,7 +10132,9 @@
       ],
       "relatedDbfIds": [
         78164
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_451",
@@ -9974,7 +10214,9 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_452",
@@ -10052,7 +10294,9 @@
       "relatedDbfIds": [
         130022,
         130023
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_452a",
@@ -10092,7 +10336,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_452b",
@@ -10132,7 +10378,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_453",
@@ -10210,7 +10458,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_454",
@@ -10277,7 +10527,9 @@
       ],
       "relatedDbfIds": [
         126319
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_454t",
@@ -10339,7 +10591,9 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_455",
@@ -10417,7 +10671,9 @@
       "relatedDbfIds": [
         130024,
         130025
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_455a",
@@ -10457,7 +10713,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_455b",
@@ -10497,7 +10755,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_456",
@@ -10570,7 +10830,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_457",
@@ -10674,7 +10936,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_458",
@@ -10765,7 +11029,9 @@
         127715,
         127716,
         127717
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_458t1",
@@ -10839,7 +11105,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "FREEZE"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_458t2",
@@ -10907,7 +11175,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_458t3",
@@ -10981,7 +11251,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_458t4",
@@ -11055,7 +11327,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_459",
@@ -11139,7 +11413,9 @@
       "mechanics": [
         "POISONOUS",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_460",
@@ -11212,7 +11488,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_461",
@@ -11290,7 +11568,9 @@
       "relatedDbfIds": [
         130026,
         130027
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_461a",
@@ -11330,7 +11610,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_461b",
@@ -11370,7 +11652,9 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_462",
@@ -11464,7 +11748,9 @@
       "mechanics": [
         "CHARGE",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_470",
@@ -11533,7 +11819,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_474",
@@ -11584,7 +11872,9 @@
           "name": "게임 태그 1724",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_500",
@@ -11645,7 +11935,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_501",
@@ -11719,7 +12011,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_502",
@@ -11787,7 +12081,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_503",
@@ -11851,7 +12147,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_504",
@@ -11945,7 +12243,9 @@
         129988,
         129989,
         131327
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_504t",
@@ -11993,7 +12293,9 @@
       ],
       "relatedDbfIds": [
         42098
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_504t2",
@@ -12028,7 +12330,9 @@
           "name": "동전 카드",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_504t3",
@@ -12063,7 +12367,9 @@
           "name": "동전 카드",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_504t3p",
@@ -12098,7 +12404,9 @@
           "name": "카드 유형",
           "value": 5
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_504tt01",
@@ -12148,7 +12456,9 @@
           "name": "비취 골렘",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_504tt04",
@@ -12198,7 +12508,9 @@
           "name": "비취 골렘",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_504tt07",
@@ -12248,7 +12560,9 @@
           "name": "비취 골렘",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_504tt20",
@@ -12298,7 +12612,9 @@
           "name": "비취 골렘",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_507",
@@ -12368,7 +12684,9 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_509",
@@ -12466,7 +12784,9 @@
       ],
       "mechanics": [
         "START_OF_GAME"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_510",
@@ -12517,7 +12837,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_511",
@@ -12581,7 +12903,9 @@
       ],
       "relatedDbfIds": [
         126476
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_511t",
@@ -12635,7 +12959,9 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_513",
@@ -12724,7 +13050,9 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_514",
@@ -12781,7 +13109,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_515",
@@ -12833,7 +13163,9 @@
           "name": "주문 속성",
           "value": 6
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_516",
@@ -12903,7 +13235,9 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_703",
@@ -12967,7 +13301,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_706",
@@ -13013,7 +13349,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_718",
@@ -13107,7 +13445,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_719",
@@ -13192,7 +13532,9 @@
       "mechanics": [
         "BATTLECRY",
         "LIFESTEAL"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_720",
@@ -13271,7 +13613,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_721",
@@ -13361,7 +13705,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_730",
@@ -13453,7 +13799,9 @@
       ],
       "relatedDbfIds": [
         126662
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_732",
@@ -13510,7 +13858,9 @@
           "name": "주문 속성",
           "value": 6
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_733",
@@ -13607,7 +13957,9 @@
       ],
       "relatedDbfIds": [
         126662
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_734",
@@ -13693,7 +14045,9 @@
         "TAUNT",
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_735",
@@ -13765,7 +14119,9 @@
           "name": "준비",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_800",
@@ -13858,7 +14214,9 @@
       "relatedDbfIds": [
         127468,
         127476
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_800hp1",
@@ -13911,7 +14269,9 @@
       ],
       "relatedDbfIds": [
         126416
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_800hp2",
@@ -13977,7 +14337,9 @@
       ],
       "relatedDbfIds": [
         126416
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_801",
@@ -14052,7 +14414,9 @@
       ],
       "relatedDbfIds": [
         126408
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_801t",
@@ -14114,7 +14478,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_802",
@@ -14193,7 +14559,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_803",
@@ -14276,7 +14644,9 @@
       ],
       "relatedDbfIds": [
         126411
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_803t",
@@ -14344,7 +14714,9 @@
       "mechanics": [
         "FREEZE",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_805",
@@ -14422,7 +14794,9 @@
       ],
       "relatedDbfIds": [
         126414
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_805t",
@@ -14490,7 +14864,9 @@
       "mechanics": [
         "BATTLECRY",
         "LIFESTEAL"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_806",
@@ -14554,7 +14930,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_831",
@@ -14688,7 +15066,9 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_850",
@@ -14768,7 +15148,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "DORMANT"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_851",
@@ -14851,7 +15233,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_852",
@@ -14925,7 +15309,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_860",
@@ -15014,7 +15400,9 @@
       ],
       "mechanics": [
         "START_OF_GAME"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_861",
@@ -15078,7 +15466,9 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_866",
@@ -15129,7 +15519,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_872",
@@ -15208,7 +15600,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_875",
@@ -15288,7 +15682,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_876",
@@ -15342,7 +15738,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_877",
@@ -15404,7 +15802,9 @@
       ],
       "relatedDbfIds": [
         127698
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_877t",
@@ -15466,7 +15866,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_878",
@@ -15544,7 +15946,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_879",
@@ -15598,7 +16002,9 @@
       ],
       "relatedDbfIds": [
         126421
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_879t",
@@ -15641,7 +16047,9 @@
       ],
       "mechanics": [
         "CASTS_WHEN_DRAWN"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_880",
@@ -15717,7 +16125,9 @@
         "TRIGGER_VISUAL",
         "DEATHRATTLE",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_881",
@@ -15782,7 +16192,9 @@
       ],
       "relatedDbfIds": [
         126424
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_881t",
@@ -15836,7 +16248,9 @@
       ],
       "mechanics": [
         "CASTS_WHEN_DRAWN"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_882",
@@ -15930,7 +16344,9 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_883",
@@ -16015,7 +16431,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "REBORN"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_887",
@@ -16109,7 +16527,9 @@
       "relatedDbfIds": [
         126499,
         127277
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_887t2",
@@ -16172,7 +16592,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_887t3",
@@ -16230,7 +16652,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_890",
@@ -16318,7 +16742,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_891",
@@ -16383,7 +16809,9 @@
       ],
       "relatedDbfIds": [
         126662
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_892",
@@ -16443,7 +16871,9 @@
       ],
       "mechanics": [
         "OUTCAST"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_906",
@@ -16536,7 +16966,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_909",
@@ -16610,7 +17042,9 @@
       ],
       "mechanics": [
         "COMBO"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_912",
@@ -16705,7 +17139,9 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_913",
@@ -16775,7 +17211,9 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_940",
@@ -16835,7 +17273,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_941",
@@ -16900,7 +17340,9 @@
       ],
       "relatedDbfIds": [
         126897
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_941t",
@@ -16941,7 +17383,9 @@
           "name": "주문 속성",
           "value": 6
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_942",
@@ -17025,7 +17469,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_974",
@@ -17104,7 +17550,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_986",
@@ -17173,7 +17621,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_987",
@@ -17234,7 +17684,9 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_997",
@@ -17293,7 +17745,9 @@
       ],
       "mechanics": [
         "DORMANT"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_998",
@@ -17378,7 +17832,9 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     },
     {
       "id": "JAIL_EVENT_101hp",
@@ -17423,7 +17879,9 @@
           "name": "희귀도",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2026-07-08",
+      "releaseStatus": "verified"
     }
   ]
 }

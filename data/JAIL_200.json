@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "비용이 @인 무작위 하수인을 둘 소환합니다. <i>(이번 게임에서 내 영웅이\n공격할수록 강화됩니다.)</i>",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

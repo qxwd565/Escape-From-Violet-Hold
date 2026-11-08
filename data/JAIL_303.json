@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 상대편의 손에 있는 카드 3장을 보고 비밀리에 한 장을 선택합니다. <b>죽음의 메아리:</b> 그 카드를 버립니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

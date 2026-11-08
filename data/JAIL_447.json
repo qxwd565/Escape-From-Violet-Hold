@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>, <b>죽음의 메아리:</b> +4/+4와 <b>속공</b>을 부여하는 탐정의 옷을 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

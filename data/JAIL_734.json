@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내 덱에서 카드를 <b>발견</b>합니다. 내 덱에 카드가 없으면 대신 +4/+4를 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리</b>:& 피해를 받은 내 하수인들에게 +1/+2를 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

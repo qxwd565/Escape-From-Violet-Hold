@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "내가 하수인을 낸 후에,\n그 하수인에게 +3/+3을 부여하고 1턴 동안 <b>휴면</b> 상태로 만듭니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

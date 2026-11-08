@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리</b>: 내 덱에 중립 카드가 없으면& 무작위 성기사 카드를 얻습니다. 그 카드의 비용이 (2) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

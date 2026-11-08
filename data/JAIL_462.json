@@ -96,7 +96,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성</b>: 카드를 2장 뽑습니다. 그 카드가 둘 다 하수인이면,& <b>돌진</b>을 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

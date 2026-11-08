@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리</b>:& 게임이 시작됐을 때 내 덱에 없던 주문을 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

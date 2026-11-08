@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "[x]하수인을 2턴 동안\n<b>휴면</b> 상태로 만듭니다.\n그 하수인이 아군 악마면,\n그 대신 +3/+3을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

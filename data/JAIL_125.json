@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "적을 <b>빙결</b> 상태로 만듭니다. 무작위 냉기 주문을 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

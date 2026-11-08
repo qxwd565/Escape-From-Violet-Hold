@@ -94,7 +94,9 @@
       }
     ],
     "nativeRawText": "<b>개전:</b> 내 덱에 비용이 (3) 이하인 카드만 있으면, 5턴 후 내 마나를 10으로 만듭니다!",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

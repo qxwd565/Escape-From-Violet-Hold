@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "피해를 $1 줍니다. 내 손에 있을 때 <b><b>은신</b>한</b> 하수인이 공격했다면, 대신 피해를 $3 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-08-26",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

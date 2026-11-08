@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "<b>돌진</b>. 내 턴 중 하나에 아군 캐릭터 넷이 피해를 받으면, 이 하수인을 손이나 덱에서 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

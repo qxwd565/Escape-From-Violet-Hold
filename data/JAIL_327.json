@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "내 턴이 끝날 때,\n내 덱에서 비용이 (2) 이하인 하수인을 소환합니다.\n@턴 지속됩니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

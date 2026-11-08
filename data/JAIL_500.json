@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "이번 턴에 나온 다른 모든 카드를 <i>(가능하다면 적을 대상으로 선택하여)</i> 다시 냅니다. 내 턴을 끝냅니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

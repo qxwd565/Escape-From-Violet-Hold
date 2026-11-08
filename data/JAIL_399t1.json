@@ -76,7 +76,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>\n<b>생명력 흡수</b>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

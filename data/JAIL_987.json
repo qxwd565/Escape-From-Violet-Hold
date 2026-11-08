@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "무작위 주술사 하수인을 얻습니다. 그 하수인은 내가 다른 카드를 낼 때까지 손에서 잠겨 있습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

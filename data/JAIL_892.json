@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "피해를 $2 줍니다.\n무작위 악마사냥꾼 주문을\n내 덱에 섞어 넣습니다. <b>추방자:</b> 반복합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

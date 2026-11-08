@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "내 턴이 끝날 때, 주라마트의 감옥이 버린 카드를 냅니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2026-07-08",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],
