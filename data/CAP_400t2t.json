@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Imp-formant",
-  "card": {
+  "2026-08-26": {
     "id": "CAP_400t2t",
     "dbfId": 127024,
     "name": "임프 정보통",
-    "text": "<b>생명력 흡수</b>\n<b>뽑을 때 소환</b> <i>(상대편에)</i>",
+    "text": "<b>생명력 흡수</b><br></br><b>뽑을 때 소환</b> <i>(상대편에)</i>",
     "type": "MINION",
     "cardClass": "WARLOCK",
     "classes": [],
@@ -77,27 +74,9 @@
     ],
     "nativeRawText": "[x]<b>생명력 흡수</b>\n<b>뽑을 때 소환</b> <i>(상대편에)</i>",
     "nativeTextBuilder": 28,
-    "releasedAt": "2026-08-26",
-    "releaseStatus": "verified"
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1988,
-    "slug": "escape-from-violet-hold",
-    "name": "보랏빛 요새 탈출 작전",
-    "type": "",
-    "englishName": "Escape From Violet Hold"
-  },
-  "setOrder": 1,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Imp-formant",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/CAP_400t2t.png"
   }
 }

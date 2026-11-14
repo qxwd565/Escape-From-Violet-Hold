@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Disguised Operator",
-  "card": {
+  "2026-08-26": {
     "id": "CAP_004",
     "dbfId": 127055,
     "name": "변장한 작업자",
@@ -90,30 +87,12 @@
     ],
     "nativeRawText": "어느 쪽에든 낼 수 있습니다. <b>속공</b>, <b>죽음의 메아리:</b> 상대편이 카드를 2장 뽑습니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2026-08-26",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    130030,
-    130031
-  ],
-  "expansion": {
-    "id": 1988,
-    "slug": "escape-from-violet-hold",
-    "name": "보랏빛 요새 탈출 작전",
-    "type": "",
-    "englishName": "Escape From Violet Hold"
-  },
-  "setOrder": 1,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Disguised Operator",
+    "root": true,
+    "relatedIds": [
+      130030,
+      130031
+    ],
+    "art": "art/CAP_004.png"
   }
 }

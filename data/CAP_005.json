@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Mathias Shaw",
-  "card": {
+  "2026-08-26": {
     "id": "CAP_005",
     "dbfId": 127056,
     "name": "마티아스 쇼",
@@ -95,27 +92,9 @@
     ],
     "nativeRawText": "<b><b>은신</b>,</b> <b><b>은신</b></b>한 아군 하수인이 공격할 때마다,& 내 손에 있는 무작위 카드의 비용이 (3) 감소합니다.",
     "nativeTextBuilder": 7,
-    "releasedAt": "2026-08-26",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1988,
-    "slug": "escape-from-violet-hold",
-    "name": "보랏빛 요새 탈출 작전",
-    "type": "",
-    "englishName": "Escape From Violet Hold"
-  },
-  "setOrder": 1,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Mathias Shaw",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/CAP_005.png"
   }
 }

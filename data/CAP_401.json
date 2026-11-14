@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Corrupt Constable",
-  "card": {
+  "2026-08-26": {
     "id": "CAP_401",
     "dbfId": 127037,
     "name": "부패한 순경",
@@ -80,29 +77,11 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 상대편의 덱에 임프 정보통이 있으면, 하나를 맨 위로 옮기고 그 임프 정보통에게 +2/+2를 부여합니다.",
     "nativeTextBuilder": 28,
-    "releasedAt": "2026-08-26",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    127024
-  ],
-  "expansion": {
-    "id": 1988,
-    "slug": "escape-from-violet-hold",
-    "name": "보랏빛 요새 탈출 작전",
-    "type": "",
-    "englishName": "Escape From Violet Hold"
-  },
-  "setOrder": 1,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Corrupt Constable",
+    "root": true,
+    "relatedIds": [
+      127024
+    ],
+    "art": "art/CAP_401.png"
   }
 }

@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Hook n' Heave",
-  "card": {
+  "2026-08-26": {
     "id": "CAP_105",
     "dbfId": 127017,
     "name": "걸고 던지기",
-    "text": "해적을 <b>발견</b>합니다.\n1/1 포대장을\n둘 소환합니다.",
+    "text": "해적을 <b>발견</b>합니다.<br></br>1/1 포대장을<br></br>둘 소환합니다.",
     "type": "SPELL",
     "cardClass": "WARRIOR",
     "classes": [],
@@ -75,29 +72,11 @@
     ],
     "nativeRawText": "[x]해적을 <b>발견</b>합니다.\n1/1 포대장을\n둘 소환합니다.",
     "nativeTextBuilder": 28,
-    "releasedAt": "2026-08-26",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    127012
-  ],
-  "expansion": {
-    "id": 1988,
-    "slug": "escape-from-violet-hold",
-    "name": "보랏빛 요새 탈출 작전",
-    "type": "",
-    "englishName": "Escape From Violet Hold"
-  },
-  "setOrder": 1,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Hook n' Heave",
+    "root": true,
+    "relatedIds": [
+      127012
+    ],
+    "art": "art/CAP_105.png"
   }
 }

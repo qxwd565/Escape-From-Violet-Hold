@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "SI:7 Slayer",
-  "card": {
+  "2026-08-26": {
     "id": "CAP_000",
     "dbfId": 127011,
     "name": "SI:7 학살자",
@@ -85,27 +82,9 @@
     ],
     "nativeRawText": "<b><b>은신</b>.</b> <b><b>은신</b>한</b> 아군 하수인이 공격할 때마다, 그 하수인에게 +2/+2을 부여합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2026-08-26",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1988,
-    "slug": "escape-from-violet-hold",
-    "name": "보랏빛 요새 탈출 작전",
-    "type": "",
-    "englishName": "Escape From Violet Hold"
-  },
-  "setOrder": 1,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "SI:7 Slayer",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/CAP_000.png"
   }
 }

@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Breakout Architect",
-  "card": {
+  "2026-07-08": {
     "id": "JAIL_123",
     "dbfId": 126354,
     "name": "탈옥 설계사",
@@ -95,27 +92,9 @@
     ],
     "nativeRawText": "<b>전투의 함성</b>:& 비용이 (5) 이상인 주문을 <b>발견</b>합니다. 그 주문을 내면 두 번 시전됩니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2026-07-08",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1988,
-    "slug": "escape-from-violet-hold",
-    "name": "보랏빛 요새 탈출 작전",
-    "type": "",
-    "englishName": "Escape From Violet Hold"
-  },
-  "setOrder": 1,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Breakout Architect",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/JAIL_123.png"
   }
 }
