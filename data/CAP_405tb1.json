@@ -1,0 +1,641 @@
+{
+  "2026-08-26": {
+    "id": "CAP_405tb1",
+    "dbfId": 132829,
+    "name": "급한 재판",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "FREE",
+    "collectible": false,
+    "cost": 7,
+    "text": "상대편의 손에서 카드를 2장 가져옵니다. 카드를 3장 뽑습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "art": "art/CAP_405tb1.png",
+    "portrait": "HS38-319_S.tif:babe4839d49b4592b01fe0b26ffe4f9c",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "nativeTags": [],
+    "crafting": {
+      "kind": "kazakus_trial",
+      "producerCardId": "CAP_405",
+      "timingChoiceId": "CAP_405tb1b",
+      "delayTurns": 0,
+      "combinations": [
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t3+CAP_405t4",
+          "effectIds": [
+            "CAP_405t3",
+            "CAP_405t4"
+          ],
+          "effectNames": [
+            "밀반입죄로 판결",
+            "밀반입품 상자"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "상대편의 손에서 카드를 2장 가져옵니다. 카드를 3장 뽑습니다.",
+          "dataFile": "data/CAP_405tb1_combo_001.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t1+CAP_405t3",
+          "effectIds": [
+            "CAP_405t3",
+            "CAP_405t1"
+          ],
+          "effectNames": [
+            "밀반입죄로 판결",
+            "파괴죄로 구금"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "상대편의 손에서 카드를 2장 가져옵니다. 모든 하수인이 다른 하수인을 공격합니다.",
+          "dataFile": "data/CAP_405tb1_combo_002.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t3+CAP_405t9",
+          "effectIds": [
+            "CAP_405t3",
+            "CAP_405t9"
+          ],
+          "effectNames": [
+            "밀반입죄로 판결",
+            "폭정의 약제"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "상대편의 손에서 카드를 2장 가져옵니다. 공허군주를 소환합니다.",
+          "dataFile": "data/CAP_405tb1_combo_003.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t2+CAP_405t3",
+          "effectIds": [
+            "CAP_405t3",
+            "CAP_405t2"
+          ],
+          "effectNames": [
+            "밀반입죄로 판결",
+            "모의죄로 유죄 판결"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "상대편의 손에서 카드를 2장 가져옵니다. 무작위 적 하수인을\n가져옵니다.",
+          "dataFile": "data/CAP_405tb1_combo_004.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t3+CAP_405t6",
+          "effectIds": [
+            "CAP_405t3",
+            "CAP_405t6"
+          ],
+          "effectNames": [
+            "밀반입죄로 판결",
+            "범죄 계약서"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "상대편의 손에서 카드를 2장 가져옵니다. 비용이 3인 무작위 하수인을 셋 소환합니다.",
+          "dataFile": "data/CAP_405tb1_combo_005.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t3+CAP_405t5",
+          "effectIds": [
+            "CAP_405t3",
+            "CAP_405t5"
+          ],
+          "effectNames": [
+            "밀반입죄로 판결",
+            "가짜 비수"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "상대편의 손에서 카드를 2장 가져옵니다. 내 손과 전장에 있는 하수인들에게 +3/+3을 부여합니다.",
+          "dataFile": "data/CAP_405tb1_combo_006.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t3+CAP_405t7",
+          "effectIds": [
+            "CAP_405t3",
+            "CAP_405t7"
+          ],
+          "effectNames": [
+            "밀반입죄로 판결",
+            "위증의 물약"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "상대편의 손에서 카드를 2장 가져옵니다. 내 손에 있는 하수인들의 비용이 (2) 감소합니다.",
+          "dataFile": "data/CAP_405tb1_combo_007.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t3+CAP_405t8",
+          "effectIds": [
+            "CAP_405t3",
+            "CAP_405t8"
+          ],
+          "effectNames": [
+            "밀반입죄로 판결",
+            "피암시성의 수액"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "상대편의 손에서 카드를 2장 가져옵니다. 내 영웅이 생명력을\n#12 회복합니다.",
+          "dataFile": "data/CAP_405tb1_combo_008.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t1+CAP_405t4",
+          "effectIds": [
+            "CAP_405t4",
+            "CAP_405t1"
+          ],
+          "effectNames": [
+            "밀반입품 상자",
+            "파괴죄로 구금"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "카드를 3장 뽑습니다. 모든 하수인이 다른 하수인을 공격합니다.",
+          "dataFile": "data/CAP_405tb1_combo_009.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t4+CAP_405t9",
+          "effectIds": [
+            "CAP_405t4",
+            "CAP_405t9"
+          ],
+          "effectNames": [
+            "밀반입품 상자",
+            "폭정의 약제"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "카드를 3장 뽑습니다. 공허군주를 소환합니다.",
+          "dataFile": "data/CAP_405tb1_combo_010.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t2+CAP_405t4",
+          "effectIds": [
+            "CAP_405t4",
+            "CAP_405t2"
+          ],
+          "effectNames": [
+            "밀반입품 상자",
+            "모의죄로 유죄 판결"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "카드를 3장 뽑습니다. 무작위 적 하수인을\n가져옵니다.",
+          "dataFile": "data/CAP_405tb1_combo_011.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t4+CAP_405t6",
+          "effectIds": [
+            "CAP_405t4",
+            "CAP_405t6"
+          ],
+          "effectNames": [
+            "밀반입품 상자",
+            "범죄 계약서"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "카드를 3장 뽑습니다. 비용이 3인 무작위 하수인을 셋 소환합니다.",
+          "dataFile": "data/CAP_405tb1_combo_012.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t4+CAP_405t5",
+          "effectIds": [
+            "CAP_405t4",
+            "CAP_405t5"
+          ],
+          "effectNames": [
+            "밀반입품 상자",
+            "가짜 비수"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "카드를 3장 뽑습니다. 내 손과 전장에 있는 하수인들에게 +3/+3을 부여합니다.",
+          "dataFile": "data/CAP_405tb1_combo_013.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t4+CAP_405t7",
+          "effectIds": [
+            "CAP_405t4",
+            "CAP_405t7"
+          ],
+          "effectNames": [
+            "밀반입품 상자",
+            "위증의 물약"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "카드를 3장 뽑습니다. 내 손에 있는 하수인들의 비용이 (2) 감소합니다.",
+          "dataFile": "data/CAP_405tb1_combo_014.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t4+CAP_405t8",
+          "effectIds": [
+            "CAP_405t4",
+            "CAP_405t8"
+          ],
+          "effectNames": [
+            "밀반입품 상자",
+            "피암시성의 수액"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "카드를 3장 뽑습니다. 내 영웅이 생명력을\n#12 회복합니다.",
+          "dataFile": "data/CAP_405tb1_combo_015.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t1+CAP_405t9",
+          "effectIds": [
+            "CAP_405t1",
+            "CAP_405t9"
+          ],
+          "effectNames": [
+            "파괴죄로 구금",
+            "폭정의 약제"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "모든 하수인이 다른 하수인을 공격합니다. 공허군주를 소환합니다.",
+          "dataFile": "data/CAP_405tb1_combo_016.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t1+CAP_405t2",
+          "effectIds": [
+            "CAP_405t1",
+            "CAP_405t2"
+          ],
+          "effectNames": [
+            "파괴죄로 구금",
+            "모의죄로 유죄 판결"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "모든 하수인이 다른 하수인을 공격합니다. 무작위 적 하수인을\n가져옵니다.",
+          "dataFile": "data/CAP_405tb1_combo_017.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t1+CAP_405t6",
+          "effectIds": [
+            "CAP_405t1",
+            "CAP_405t6"
+          ],
+          "effectNames": [
+            "파괴죄로 구금",
+            "범죄 계약서"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "모든 하수인이 다른 하수인을 공격합니다. 비용이 3인 무작위 하수인을 셋 소환합니다.",
+          "dataFile": "data/CAP_405tb1_combo_018.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t1+CAP_405t5",
+          "effectIds": [
+            "CAP_405t1",
+            "CAP_405t5"
+          ],
+          "effectNames": [
+            "파괴죄로 구금",
+            "가짜 비수"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "모든 하수인이 다른 하수인을 공격합니다. 내 손과 전장에 있는 하수인들에게 +3/+3을 부여합니다.",
+          "dataFile": "data/CAP_405tb1_combo_019.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t1+CAP_405t7",
+          "effectIds": [
+            "CAP_405t1",
+            "CAP_405t7"
+          ],
+          "effectNames": [
+            "파괴죄로 구금",
+            "위증의 물약"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "모든 하수인이 다른 하수인을 공격합니다. 내 손에 있는 하수인들의 비용이 (2) 감소합니다.",
+          "dataFile": "data/CAP_405tb1_combo_020.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t1+CAP_405t8",
+          "effectIds": [
+            "CAP_405t1",
+            "CAP_405t8"
+          ],
+          "effectNames": [
+            "파괴죄로 구금",
+            "피암시성의 수액"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "모든 하수인이 다른 하수인을 공격합니다. 내 영웅이 생명력을\n#12 회복합니다.",
+          "dataFile": "data/CAP_405tb1_combo_021.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t2+CAP_405t9",
+          "effectIds": [
+            "CAP_405t9",
+            "CAP_405t2"
+          ],
+          "effectNames": [
+            "폭정의 약제",
+            "모의죄로 유죄 판결"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "공허군주를 소환합니다. 무작위 적 하수인을\n가져옵니다.",
+          "dataFile": "data/CAP_405tb1_combo_022.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t6+CAP_405t9",
+          "effectIds": [
+            "CAP_405t9",
+            "CAP_405t6"
+          ],
+          "effectNames": [
+            "폭정의 약제",
+            "범죄 계약서"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "공허군주를 소환합니다. 비용이 3인 무작위 하수인을 셋 소환합니다.",
+          "dataFile": "data/CAP_405tb1_combo_023.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t5+CAP_405t9",
+          "effectIds": [
+            "CAP_405t9",
+            "CAP_405t5"
+          ],
+          "effectNames": [
+            "폭정의 약제",
+            "가짜 비수"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "공허군주를 소환합니다. 내 손과 전장에 있는 하수인들에게 +3/+3을 부여합니다.",
+          "dataFile": "data/CAP_405tb1_combo_024.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t7+CAP_405t9",
+          "effectIds": [
+            "CAP_405t9",
+            "CAP_405t7"
+          ],
+          "effectNames": [
+            "폭정의 약제",
+            "위증의 물약"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "공허군주를 소환합니다. 내 손에 있는 하수인들의 비용이 (2) 감소합니다.",
+          "dataFile": "data/CAP_405tb1_combo_025.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t8+CAP_405t9",
+          "effectIds": [
+            "CAP_405t9",
+            "CAP_405t8"
+          ],
+          "effectNames": [
+            "폭정의 약제",
+            "피암시성의 수액"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "공허군주를 소환합니다. 내 영웅이 생명력을\n#12 회복합니다.",
+          "dataFile": "data/CAP_405tb1_combo_026.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t2+CAP_405t6",
+          "effectIds": [
+            "CAP_405t2",
+            "CAP_405t6"
+          ],
+          "effectNames": [
+            "모의죄로 유죄 판결",
+            "범죄 계약서"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "무작위 적 하수인을\n가져옵니다. 비용이 3인 무작위 하수인을 셋 소환합니다.",
+          "dataFile": "data/CAP_405tb1_combo_027.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t2+CAP_405t5",
+          "effectIds": [
+            "CAP_405t2",
+            "CAP_405t5"
+          ],
+          "effectNames": [
+            "모의죄로 유죄 판결",
+            "가짜 비수"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "무작위 적 하수인을\n가져옵니다. 내 손과 전장에 있는 하수인들에게 +3/+3을 부여합니다.",
+          "dataFile": "data/CAP_405tb1_combo_028.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t2+CAP_405t7",
+          "effectIds": [
+            "CAP_405t2",
+            "CAP_405t7"
+          ],
+          "effectNames": [
+            "모의죄로 유죄 판결",
+            "위증의 물약"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "무작위 적 하수인을\n가져옵니다. 내 손에 있는 하수인들의 비용이 (2) 감소합니다.",
+          "dataFile": "data/CAP_405tb1_combo_029.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t2+CAP_405t8",
+          "effectIds": [
+            "CAP_405t2",
+            "CAP_405t8"
+          ],
+          "effectNames": [
+            "모의죄로 유죄 판결",
+            "피암시성의 수액"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "무작위 적 하수인을\n가져옵니다. 내 영웅이 생명력을\n#12 회복합니다.",
+          "dataFile": "data/CAP_405tb1_combo_030.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t5+CAP_405t6",
+          "effectIds": [
+            "CAP_405t6",
+            "CAP_405t5"
+          ],
+          "effectNames": [
+            "범죄 계약서",
+            "가짜 비수"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "비용이 3인 무작위 하수인을 셋 소환합니다. 내 손과 전장에 있는 하수인들에게 +3/+3을 부여합니다.",
+          "dataFile": "data/CAP_405tb1_combo_031.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t6+CAP_405t7",
+          "effectIds": [
+            "CAP_405t6",
+            "CAP_405t7"
+          ],
+          "effectNames": [
+            "범죄 계약서",
+            "위증의 물약"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "비용이 3인 무작위 하수인을 셋 소환합니다. 내 손에 있는 하수인들의 비용이 (2) 감소합니다.",
+          "dataFile": "data/CAP_405tb1_combo_032.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t6+CAP_405t8",
+          "effectIds": [
+            "CAP_405t6",
+            "CAP_405t8"
+          ],
+          "effectNames": [
+            "범죄 계약서",
+            "피암시성의 수액"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "비용이 3인 무작위 하수인을 셋 소환합니다. 내 영웅이 생명력을\n#12 회복합니다.",
+          "dataFile": "data/CAP_405tb1_combo_033.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t5+CAP_405t7",
+          "effectIds": [
+            "CAP_405t5",
+            "CAP_405t7"
+          ],
+          "effectNames": [
+            "가짜 비수",
+            "위증의 물약"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "내 손과 전장에 있는 하수인들에게 +3/+3을 부여합니다. 내 손에 있는 하수인들의 비용이 (2) 감소합니다.",
+          "dataFile": "data/CAP_405tb1_combo_034.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t5+CAP_405t8",
+          "effectIds": [
+            "CAP_405t5",
+            "CAP_405t8"
+          ],
+          "effectNames": [
+            "가짜 비수",
+            "피암시성의 수액"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "내 손과 전장에 있는 하수인들에게 +3/+3을 부여합니다. 내 영웅이 생명력을\n#12 회복합니다.",
+          "dataFile": "data/CAP_405tb1_combo_035.json"
+        },
+        {
+          "variantId": "trial:CAP_405tb1:CAP_405t7+CAP_405t8",
+          "effectIds": [
+            "CAP_405t7",
+            "CAP_405t8"
+          ],
+          "effectNames": [
+            "위증의 물약",
+            "피암시성의 수액"
+          ],
+          "timingChoiceId": "CAP_405tb1b",
+          "delayTurns": 0,
+          "resultCardId": "CAP_405tb1",
+          "resultDbfId": 132829,
+          "resultText": "내 손에 있는 하수인들의 비용이 (2) 감소합니다. 내 영웅이 생명력을\n#12 회복합니다.",
+          "dataFile": "data/CAP_405tb1_combo_036.json"
+        }
+      ]
+    }
+  }
+}
